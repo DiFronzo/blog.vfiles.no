@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-author: Andreas
+author: Andreas Lien
 date: 2021-10-07T22:22:22+02:00
 draft: false
 toc: false

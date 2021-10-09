@@ -1,5 +1,6 @@
 ---
 title: "Machine Learning with Wikidata"
+author: Andreas Lien
 date: 2021-10-08T16:48:41+02:00
 draft: false
 toc: false
@@ -7,12 +8,15 @@ images:
 tags:
   - ML
   - Wikidata
-  - linear_regression
+  - linear regression
+  - Wikidata Query
+  - Python
+  - world population
   - blog
 ---
 
 This tutorial will be dedicated to understanding how to use the linear
-regression algorithm with Wikidata to make predictions. For a very detailed
+regression algorithm with Wikidata to make predictions. For a detailed
 explanation of how this algorithm works please read the
 [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) article:
 [linear regression](https://en.wikipedia.org/wiki/Linear_regression). In this
@@ -21,7 +25,10 @@ walkthrough
 
 ### Importing Modules/Packages
 
-Before we start coding, import/install all of the following.
+Before we start coding, import/install all of the following packages:
+[NumPy](https://pypi.org/project/numpy/),
+[Pandas](https://pypi.org/project/pandas/), and
+[Sklearn](https://pypi.org/project/scikit-learn/).
 
 ```python
 # -*- coding: utf-8  -*-
@@ -36,19 +43,20 @@ from sklearn import linear_model
 
 ### Loading in Our Data
 
-Now it's time for some data collection from Wikidata. For this example have I
-used the yearly (average) population stacked by country in a query. This gives
-us a lot of interesting values and some with faults, unfortunately. I have
-chosen to filter this query to only include values from 2005 and newer. How you
-choose to import the query into the script is your decision. A passibility is to
+Now it's time for some data collection from Wikidata. For this example we are
+using the yearly (average) population stacked by country in a query (linked
+further down). This gives us a lot of interesting values and some with faults,
+unfortunately. I have chosen to filter this query to only include values from
+2005 and newer. How you choose to import the query into the script is your
+decision. A passibility is to
 [iterate over a SPARQL query](https://www.wikidata.org/wiki/Wikidata:Pywikibot_-_Python_3_Tutorial/Iterate_over_a_SPARQL_query)
 by downloading the `.rq` file or just download a
 [JSON](https://en.wikipedia.org/wiki/JSON) file of the result from the
-query.wikidata.org site. Once you've downloaded the data set and placed it into
-your main directory you will first need to clean the data, and later load it in
-using the pandas module.
+[query.wikidata.org](https://query.wikidata.org) site. Once you've downloaded
+the data set and placed it into your main directory (of the Python code) you
+will first need to clean the data, and later load it in using the pandas module.
 
-Yearly Population stacked by country
+#### Yearly Population stacked by country
 
 ```SPARQL
 # male/female population _must_ not be added unqualified as total population (!)
@@ -94,14 +102,16 @@ ORDER BY ?year ?countryLabel
 ```
 
 Query found on
-[Wikidata:SPARQL query service/queries/examples/advanced](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)
+[Wikidata:SPARQL query service/queries/examples/advanced](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples/advanced#Yearly_Population_stacked_by_country)
 (shout-out to the person who made it, saved me a lot of time).
+[Click here for full size image](https://upload.wikimedia.org/wikipedia/commons/0/0f/Yearly_Population_stacked_by_country_%28Wikidata%29.svg)
+([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)).
 
 ![Visualisation of the SPARQL query](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yearly_Population_stacked_by_country_%28Wikidata%29.svg/1000px-Yearly_Population_stacked_by_country_%28Wikidata%29.svg.png?sanitize=true)
 
 Now that we have cleaned the data and selected the interesting part of the query
 (country, year and population). We need to import the data into `pandas`. We
-also need (in this example) to flip the table (switch the place of column and
+also need, in this example, to flip the table (switch the place of column and
 row).
 
 ```python
@@ -136,16 +146,17 @@ data = pd.DataFrame.transpose(df) # flips the table
 The data should now look something like this: `print(data)`
 
 ```
-country          2007     2008     2009  \
+.                2007     2008     2009  \
 Afghanistan    26349243 27032197 27708187
 Algeria        35097043 35591377 36383302
 ... ... ... ...
 ```
 
 Next it's time to only select the data we want to use as test data, and remove
-the solution. In other words split the data. In this example I have choose to
-use population values from 2007-2012 (for the countries that have all of them),
-with a prediction for 2013 (they also need this value).
+the solution; in other words split the data. In this example I have choose to
+use population values from 2007-2012 (for the countries that have data for all
+the years between), where `sklearn` will do a prediction for 2013 (we also need
+the real value for this year).
 
 ```python
 data = data[YEARS]
@@ -157,23 +168,23 @@ Now that we've trimmed our data set down we need to separate it into 4 arrays.
 However, before we can do that we need to define what attribute we are trying to
 predict. This attribute is known as a **label**. The other attributes that will
 determine our label are known as **features**. Once we've done this we will use
-`numpy` to create two arrays. One that contains all of our features and one that
-contains our labels.
+`numpy` to create two arrays. One that contains all of our features and another
+one that contains our labels.
 
 ```python
 X = np.array(data.drop([predict], 1)) # Features
 y = np.array(data[predict]) # Labels
 ```
 
-After this we need to split our data into testing and training data. We will use
-90% of our data to train and the other 10% to test. The reason we do this is so
+After this we need to split our data into testing and training set. We will use
+90% of our data to train and the other 10% to test. The reason we do this is, so
 that we do not test our model on data that it has already seen.
 
 ```python
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(X, y, test_size = 0.1)
 ```
 
-Next is to implement the linear regression algorithm
+Next is to implement the linear regression algorithm.
 
 ### Implementing the Algorithm
 
@@ -197,8 +208,8 @@ accuracy.
 print(acc)
 ```
 
-For this specific data set a score of above 80% is fairly good. This example has
-99%.
+For this specific data set a score of above `80%` is fairly good. This example
+has `99%`.
 
 ### Viewing The Constants
 
@@ -212,10 +223,10 @@ print('Intercept: \n', linear.intercept_) # This is the intercept
 
 ### Predicting the population in 2013
 
-Seeing a score value is nice but we would first like to see how well the
-algorithm works on specific country. To do this we are going to print out all of
-our test data. Beside this data we will print the actual population in 2013 and
-our models predicted population.
+Seeing a numeric score value is nice but we would first like to see how well the
+algorithm works on a specific country. To do this we are going to print out all
+of our test data. Beside this data we will print the actual population in 2013
+and our models predicted population value.
 
 ```python
 predictions = linear.predict(x_test) # Gets a list of all predictions
