@@ -37,8 +37,8 @@ enableEmoji     = true
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "My blog"
+  keywords = "blog"
   images = [""]
 
 [params.footer]

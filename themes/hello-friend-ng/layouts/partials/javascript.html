@@ -3,6 +3,7 @@
 {{ $prism := resources.Get "js/prism.js" }}
 {{ $secureJS := slice $main $menu $prism | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
 <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+<script async src="https://ackee-vfiles.herokuapp.com/tracker.js" data-ackee-server="https://ackee-vfiles.herokuapp.com" data-ackee-domain-id="32ae207a-eb5f-473f-9c59-b45d66248ab7"></script>
 
 {{ range $val := $.Site.Params.customJS }}
     {{ if gt (len $val) 0 }}
