@@ -48,3 +48,12 @@
   src: url("../fonts/Inter-UI-BoldItalic.woff2") format("woff2"),
        url("../fonts/Inter-UI-BoldItalic.woff") format("woff");
 }
+
+@font-face {
+  font-family: '67 Condensed';
+  font-style:  bold;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/Univers_67_Condensed_Bold.woff2") format("woff2"),
+       url("../fonts/Univers_67_Condensed_Bold.woff") format("woff");
+}
