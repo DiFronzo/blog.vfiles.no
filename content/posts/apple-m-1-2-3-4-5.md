@@ -2,7 +2,7 @@
 title: "Apple ∑Mn"
 author: Andreas Lien
 date: 2021-10-21T14:01:42+02:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
