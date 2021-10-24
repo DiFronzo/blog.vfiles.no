@@ -1,7 +1,7 @@
 ---
 title: "China Blocks Wikimedia From Entering World Intellectual Property Organization"
 author: Andreas Lien
-date: 2022-10-11T09:18:34+02:00
+date: 2021-10-11T09:18:34+02:00
 draft: true
 toc: false
 images:

@@ -1,7 +1,7 @@
 ---
 title: "Facebook Wins Every Time"
 author: Andreas Lien
-date: 2022-10-09T13:21:28+02:00
+date: 2021-10-09T13:21:28+02:00
 draft: true
 toc: false
 images:
@@ -36,7 +36,7 @@ attrlink="https://commons.wikimedia.org/wiki/File:Maria_Ressa.jpg"
 caption="Maria Ressa in 2011." attr="Joshua Lim, CC BY-SA 3.0" >}}
 
 Before we can answer that exact question, lets take a close look at where
-Facebook get its income from. Can't be from users because Facebook is "free",
+Facebook get its income from. It can't be from us users because Facebook is "free",
 right? Well, it depends on what you are considering as a payment. Because as a
 user you don't need to pay any [money](https://en.wikipedia.org/wiki/Money) for
 using FB, instead FB collects data about you and selling advertising space as
@@ -47,8 +47,7 @@ its primary income.
 
 {{< tweet 1445090556388859904 >}}
 
-{{< image src="/media/Mark_Zuckerberg.jpg" class="center" alt="Image of Mark
-Zuckerberg" width="620"
+{{< image src="/media/Mark_Zuckerberg.jpg" class="center" alt="Image of Mark Zuckerberg" width="620"
 attrlink="https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(46985052514).jpg"
 caption="CEO of FB, Mark Zuckerberg in 2019." attr="Anthony Quintano, CC BY 2.0"
 >}}

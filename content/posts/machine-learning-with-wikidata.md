@@ -145,7 +145,7 @@ data = pd.DataFrame.transpose(df) # flips the table
 
 The data should now look something like this: `print(data)`
 
-```
+```bash
 .                2007     2008     2009  \
 Afghanistan    26349243 27032197 27708187
 Algeria        35097043 35591377 36383302
@@ -239,12 +239,13 @@ for x in range(len(predictions)):
 ```
 
 ### Test result
-
-    0.999650607098148
-    Coefficient:
-     [ 0.41969474 -1.01050159 -0.20560013  0.0411049   1.3388236   0.41479332]
-    Intercept:
-     36691.20709852874
+```bash
+0.999650607098148
+Coefficient:
+[ 0.41969474 -1.01050159 -0.20560013  0.0411049   1.3388236   0.41479332]
+Intercept:
+36691.20709852874
+```
 
 |  Country  | sklearn guessed value for 2013 | The Wikidata values (2007) | The Wikidata values (2008) | The Wikidata values (2009) | The Wikidata values (2010) | The Wikidata values (2011) | The Wikidata values (2012) | The Wikidata value (2013) |
 | :-------: | :----------------------------: | :------------------------: | :------------------------: | :------------------------: | :------------------------: | :------------------------: | :------------------------: | :-----------------------: |
