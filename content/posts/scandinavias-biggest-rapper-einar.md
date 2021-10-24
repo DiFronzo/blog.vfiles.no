@@ -23,7 +23,7 @@ caption="Press image of Einàr in 2020." attr="Pontus Esse Carmback, CC BY 3.0" 
 
 > "It is a young life that has been extinguished, and I understand that he has meant a lot to many young people," [said](https://www.tv4.se/klipp/va/13723095/stefan-lofven-om-mordet-pa-einar-tragiskt-att-annu-ett-liv-slackts) Swedish Prime Minister [Stefan Löfven](https://en.wikipedia.org/wiki/Stefan_L%C3%B6fven).
 
-Einár's death sent a shock wave in [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia) and once again has the discussion regarding voilence and gang-related activity within the hip hop community emerged. Many of Einár’s songs reference a life of crime, including drugs and weapons. Sweden has seen a rise in organised crime activity in recent years and several shootings have occurred in Stockholm, Goteborg, and Malmo.
+Einár's death sent a shock wave in [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia) and once again has the discussion regarding violence and gang-related activity within the hip hop community emerged. Many of Einár’s songs reference a life of crime, including drugs and weapons. Sweden has seen a rise in organised crime activity in recent years and several shootings have occurred in Stockholm, Goteborg, and Malmo.
 
 Sweden's Minister for Gender Equality and Housing [Märta Stenevi](https://en.wikipedia.org/wiki/M%C3%A4rta_Stenevi) twitted that "violence must be stopped".
 
