@@ -33,4 +33,4 @@ The motive of the shooting remains unclear but the [police](https://polisen.se/a
 
 **RIP Einàr you'll always be remembered for your music and description of the contemporary criminal scene in Stockholm ❤**
 
-{{< spotify "37i9dQZF1DXc9WxKlmRFlD" >}}
+{{< spotify "37i9dQZF1DZ06evO080TLU" >}}
