@@ -18,8 +18,8 @@
 
 <style>
 #slide-window {
+    display: block;
     position: relative;
-    width: {{ $.Scratch.Get "width" }};
     height: {{ $.Scratch.Get "height" }};
     overflow: hidden;
     top: 0px;
@@ -27,7 +27,6 @@
 }
 
 #slides-list {
-    width: {{ $.Scratch.Get "width" }};
     height: {{ $.Scratch.Get "height" }};
     position: absolute;
     margin: 0px;
@@ -36,6 +35,7 @@
     transform: translate3d(0px, 0px, 0px);
     transition: all 0.66s ease;
     -webkit-transition: all 0.66s ease;
+
 }
 
 .slide {
@@ -44,7 +44,6 @@
     float: left;
     margin: 0;
     padding: 0;
-    width: {{ $.Scratch.Get "width" }};
     height: {{ $.Scratch.Get "height" }};
     background: #ccc;
     text-align: center;
@@ -89,7 +88,11 @@
             {{- $files := readDir (print "/static/" .) }}
             {{- range $files -}}
                 {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
-                <li class="slide" style="background-image:url({{ $absoluteUrl }});"></li>
+                <li class="slide" style="background-image:url({{ $absoluteUrl }});">
+                    <figcaption>
+                      <p style="color:black; font-size:160%;">{{ .Name }}</p>
+                    </figcaption>
+                </li>
             {{- end }}
         {{- end }}
     </ol>
