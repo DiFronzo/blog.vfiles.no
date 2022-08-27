@@ -1,6 +1,7 @@
 {{ $.Scratch.Add "width" (.Get "width" | default "720px") }}
 {{ $.Scratch.Add "height" (.Get "height" | default "1400px") }}
 {{ $.Scratch.Add "auto-slide" (.Get "auto-slide" | default "0") }}
+{{ $.Scratch.Add "figcaption" (.Get "figcaption" | default "false") }}
 
 {{ $.Scratch.Add "arrow-left" (.Get "arrow-left" | default "fa-chevron-left") }}
 {{ $.Scratch.Add "arrow-right" (.Get "arrow-right" | default "fa-chevron-right") }}
@@ -89,9 +90,11 @@
             {{- range $files -}}
                 {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
                 <li class="slide" style="background-image:url({{ $absoluteUrl }});">
+                  {{- if ne ($.Scratch.Get "figcaption") "false" }}
                     <figcaption>
                       <p style="color:black; font-size:160%;">{{ .Name }}</p>
                     </figcaption>
+                  {{- end}}
                 </li>
             {{- end }}
         {{- end }}
