@@ -32,7 +32,7 @@ class="center"
 attrlink="https://commons.wikimedia.org/wiki/File:Nothing_Phone_(1)_-_Reverse_wireless_charging.jpg"
 caption="Reverse wireless charging of the Ear (1) using the Nothing Phone (1)." attr="Premeditated, CC BY-SA 4.0" >}}
 
-### Nothing OS
+### NothingOS
 
 {{< image src="/media/np1/IMG_4716.jpg" alt="The Nothing Phone (1) with the Glyph interface on in a pocket of the hoodie."
 class="center"
