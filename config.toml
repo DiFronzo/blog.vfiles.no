@@ -59,7 +59,7 @@ enableEmoji     = true
     title = "A blog"
     subtitle = "Just a blog"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>, except where indicated otherwise'
+    copyright = '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank" rel="noopener">CC BY-SA 4.0</a>, except where indicated otherwise'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
