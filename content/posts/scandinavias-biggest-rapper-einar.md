@@ -27,7 +27,7 @@ Einár's death sent a shock wave in [Scandinavia](https://en.wikipedia.org/wiki/
 
 Sweden's Minister for Gender Equality and Housing [Märta Stenevi](https://en.wikipedia.org/wiki/M%C3%A4rta_Stenevi) twitted that "violence must be stopped".
 
-{{< twitter "1451441326625599510" >}}
+{{< twitter "martastenevi" "1451441326625599510" >}}
 
 The motive of the shooting remains unclear but the [police](https://polisen.se/aktuellt/handelser/2021/oktober/21/21-oktober-2250-morddrap-stockholm/) have not ruled out that the incident could be gang-related.
 

@@ -24,8 +24,6 @@ caption="Illustration of Apple's M1 processor." attr="Henriok, CC0 1.0" >}}
 
 The two new chips look to change that situation, with Apple going all-out for performance, with more CPU cores, more GPU cores, much more silicon investment, and Apple now also increasing their power budget far past anything they’ve ever done in the smartphone or tablet space.
 
-{{< tweet 1450255227945242628 >}}
-
 ### The M1 Pro: The Middle Child
 The first of the two chips which were announced was M1 Pro – laying the ground-work for what Apple calls no-compromise laptop SoCs.
 

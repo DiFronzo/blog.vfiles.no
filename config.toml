@@ -6,9 +6,6 @@ paginate     = 10
 enableRobotsTXT = true
 enableEmoji     = true
 
-[author]
-  name = "DiFronzo"
-
 [params]
   mainSections = ["posts"]
 
