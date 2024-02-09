@@ -10,22 +10,24 @@ tags:
   - self-host
   - ackee
   - google analytic
+  - open source
+  - data sovereignty
 ---
 
-Recently I made the switch to self-hosted analytics, after being a long-term Google Analytics user. Almost every website you visit will have a Google Analytics tracker on it. I think there are idealogical and technical reasons to opt for self-hosted analytics instead.
+In a deliberate move towards enhancing analytics efficiency and data sovereignty, I recently transitioned from long-term usage of Google Analytics to self-hosted analytics solutions. While ubiquitous, the presence of Google Analytics trackers on most websites raises pertinent ideological and technical considerations, prompting the adoption of self-hosted analytics platforms.
 
-## Tracking efficacy
-This one’s quick. You’re more likely to get analytics for a given user if you’re using self-hosted analytics, than if you’re using Google Analytics. About [26% of people](https://www.statista.com/statistics/804008/ad-blocking-reach-usage-us/) are running adblockers now, a large percentage of which will also block tracking scripts, like GA. Having your analytics on analytics.yourdomain.com makes your requests less likely to be blocked.
+## Enhanced Tracking Efficacy
+One pivotal aspect to highlight is the heightened efficacy of tracking afforded by self-hosted analytics. With an increasing number of internet users employing ad blockers, approximately [26%](https://www.statista.com/statistics/804008/ad-blocking-reach-usage-us/) of the online populace, the likelihood of obtaining analytics data for individual users is significantly higher with self-hosted solutions. By hosting analytics on dedicated subdomains such as analytics.yourdomain.com, the probability of encountering script blocking is notably diminished.
 
-## On principle - being a customer vs being a lead
-Google Analytics (including gtag and universal analytics), has a whopping [73% market share](https://www.datanyze.com/market-share/web-analytics--1). That’s millions and millions of sites, and billions of data points processed every day. Google’s spending millions on this service (disclaimer: that number is pulled from absolutely nowhere, but even if 5 engineers are carrying the entirety of Google Analytics on their back and server costs are zero, that already puts it in the millions).
+## Ideological Integrity: Customer versus Lead
+A profound ideological shift underpins the migration towards self-hosted analytics, epitomizing a transition from being perceived as a lead to asserting one's status as a valued customer. Google Analytics, with an imposing [73% market share](https://www.datanyze.com/market-share/web-analytics--1), commands a substantial presence in the web analytics landscape. However, the symbiotic relationship between Google Analytics and Google's advertising services underscores a fundamental reality: users are not merely customers but potential leads. This paradigm shift not only underscores a commitment to data privacy but also ensures a more equitable transactional relationship, fostering trust and integrity in analytics practices.
 
-Google, like any company, isn’t providing an expensive service for free out of the goodness of their heart, or because they can spare the money. They’re hoping that by being a Google Analytics customer, you’ll become an AdWords customer. Google Analytics users aren’t customers, they’re leads. Personally I feel a lot more secure in my transactions knowing I’m a customer.
+Moreover, from a data privacy standpoint, self-hosting offers unparalleled control and ownership over visitor data. Alleviating concerns surrounding the extent of data accessibility by third-party entities, self-hosted analytics empower website owners with the autonomy to safeguard sensitive information, reinforcing compliance with stringent data protection regulations.
 
-There’s also the data privacy standpoint. I don’t want Google to know as much about my website visitors as I do. Something doesn’t feel right to me about giving Google that amount of insight into my site. With self-hosting I’m in control of my visitors’ data.
+## Embracing Simplicity and Efficiency
+Simplicity, often overshadowed by the allure of complexity, emerges as a guiding principle in the selection of analytics solutions. While Google Analytics boasts a plethora of advanced features catering to diverse analytical needs, the inherent complexity may overshadow its utility for many users. Opting for a self-hosted analytics solution transcends the allure of convoluted functionalities, prioritizing a streamlined user experience tailored to address core analytical requirements. A discerning focus on traffic volume, source attribution, and page engagement underscores the pragmatic approach adopted in the deployment of analytics solutions.
 
-## Simplicity
-Google Analytics, for my purposes, has way too much complexity. I know there are sites that benefit from the comparisons and stats you can pull up through Google Analytics. Some website out there can probably benefit from finding out what % of male users in Germany, who visited the marketing page between January and March, signed up for a paid account in July. Maybe in the future I’ll have a website receiving billions of hits per month where I could materially benefit from such a query. But for now, I really don’t need it, and I don’t want the complex UX that comes along with the ability to run queries like that. All I need is a rough idea of how much traffic I’m getting, where it’s coming from, and what pages it goes to. A simple self-hosted analytics service gives me that.
+## Unveiling My New Analytics Framework
+n embracing the ethos of self-hosted analytics, the adoption of [Ackee](https://github.com/electerious/Ackee) emerges as a testament to a professional commitment to privacy, efficiency, and reliability. While the setup process may necessitate a marginally longer time investment relative to conventional alternatives, the dividends reaped in terms of data sovereignty, and analytical fidelity far outweigh the initial setup complexities. Ackee's open-source architecture coupled with its intuitive user interface exemplifies a confluence of technological innovation and user-centric design, culminating in a superlative analytics experience that transcends conventional paradigms.
 
-## My new analytics setup
-My GA-alternative of choice is [Ackee](https://github.com/electerious/Ackee). It took me all of 10 minutes to set up using the [helm chart](https://artifacthub.io/packages/helm/suda/ackee) (admittedly, longer than Google Analytic’s 30-second copy and paste), it shows me the stats I care about in a clean UI, it’s open-source, and it’s self-hosted.
+In essence, the transition to self-hosted analytics epitomizes a professional evolution towards data autonomy, ideological integrity, and operational efficiency, setting a precedent for conscientious analytics practices in the digital era.

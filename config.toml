@@ -1,20 +1,20 @@
-baseurl      = "https://blog.vfiles.no"
-title        = "My Blog"
-languageCode = "en-us"
-theme        = "hello-friend-ng"
-paginate     = 10
+baseurl         = "https://blog.vfiles.no"
+title           = "My Blog"
+languageCode    = "en-us"
+theme           = "hello-friend-ng"
+paginate        = 10
 enableRobotsTXT = true
 enableEmoji     = true
 
 
 
 [params]
-  mainSections = ["posts"]
+  mainSections    = ["posts"]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  author			    = "Andreas Lien"
+  author			    = "DiFronzo"
     
   # Subtitle for home
   homeSubtitle = "A blog - Just a blog"
