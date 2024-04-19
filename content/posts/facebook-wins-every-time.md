@@ -45,7 +45,7 @@ its primary income.
 > "If you have no facts, you can't have truths, you can't have trust. If you
 > don't have any of these, you don't have a democracy" - Maria Ressa
 
-{{< tweet 1445090556388859904 >}}
+{{< tweet user="Snowden" id="1445090556388859904" >}}
 
 {{< image src="/media/Mark_Zuckerberg.jpg" class="center" alt="Image of Mark Zuckerberg" width="620"
 attrlink="https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(46985052514).jpg"
