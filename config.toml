@@ -45,6 +45,7 @@ enableEmoji     = true
   rss = true
   copyright = true
   author = true
+  notbyai = true
 
   topText = []
 
