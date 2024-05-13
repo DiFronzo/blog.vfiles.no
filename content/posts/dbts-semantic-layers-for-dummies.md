@@ -2,7 +2,7 @@
 title: "Dbt's Semantic Layers for Dummies"
 author: Andreas Lien
 date: 2024-04-19T19:54:12+02:00
-draft: false
+draft: true
 toc: false
 cover: /media/semantic_layers.jpg
 tags:
