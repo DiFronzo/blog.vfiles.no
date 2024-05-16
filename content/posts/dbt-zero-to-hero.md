@@ -15,7 +15,7 @@ tags:
   - DataDocumentation
   - DataQuality
 ---
-Welcome to the first edition of “Andreas takes you on the ride while she learns how to do his job.” Today, we’re diving into dbt (Data Build Tool) to understand its core concepts, project structure, and key components. Whether you're new to dbt or looking to solidify your understanding, this guide will help you go from zero to hero.
+Welcome to the first edition of “Andreas takes you on the ride while he learns how to do his job.” Today, we’re diving into dbt (Data Build Tool) to understand its core concepts, project structure, and key components. Whether you're new to dbt or looking to solidify your understanding, this guide will help you go from zero to hero.
 
 ### What is dbt?
 Dbt, short for Data Build Tool, is a command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively. It allows you to write modular SQL queries, version control your transformations, and document your data in a consistent, reproducible manner. Dbt empowers data teams to own the entire analytics engineering workflow, from transforming raw data to creating clean, actionable insights.
@@ -36,7 +36,7 @@ Seeds are CSV files that you can load into your data warehouse. These files can 
 Tests in dbt help you validate your data. You can write custom SQL tests or use built-in tests to ensure data quality and integrity. Common tests include checking for null values, uniqueness, and referential integrity.
 
 #### Documentation
-Documentation is an integral part of dbt. You can document your models, sources, and tests using YAML files. dbt also provides a web-based interface to view your documentation and understand your data lineage.
+Documentation is an integral part of dbt. You can document your models, sources, and tests using YAML files. Dbt also provides a web-based interface to view your documentation and understand your data lineage.
 
 #### Materializations
 Materializations determine how dbt will build your models in the data warehouse. Common materializations include views, tables, and incremental tables. Each has its own use case, depending on the size of your data and performance requirements.
@@ -136,7 +136,7 @@ dbt docs serve
 ```
 
 ### Conclusion
-dbt is a powerful tool for data transformation and management. By understanding its core concepts, exploring its project structure, and leveraging its key components, you can transform raw data into actionable insights more effectively. Remember, dbt encourages a modular, iterative workflow, making your data transformations more maintainable and scalable.
+Dbt is a powerful tool for data transformation and management. By understanding its core concepts, exploring its project structure, and leveraging its key components, you can transform raw data into actionable insights more effectively. Remember, dbt encourages a modular, iterative workflow, making your data transformations more maintainable and scalable.
 
 Tune in for the next dummies post coming soon. If you also stick around for my non-dbt related writing, I appreciate you. It doesn’t always feel right to promo those posts on LinkedIn, so I am grateful for those of you that read them anyways.
 
