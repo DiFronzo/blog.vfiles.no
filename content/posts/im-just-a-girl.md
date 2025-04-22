@@ -2,7 +2,7 @@
 title: "I'm just a girl"
 author: Andreas Lien
 date: 2024-11-16T00:26:09+01:00
-draft: false
+draft: true
 toc: false
 cover: /media/im-just-a-girl.jpg
 CoverCaption: "AI Photo. License: [CC0](https://creativecommons.org/public-domain/cc0/)."
