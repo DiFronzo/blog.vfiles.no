@@ -2,7 +2,7 @@ baseurl         = "https://blog.vfiles.no"
 title           = "My Blog"
 languageCode    = "en-us"
 theme           = "hello-friend-ng"
-paginate        = 10
+pagination = { pagerSize = 10 }
 enableRobotsTXT = true
 enableEmoji     = true
 
@@ -70,4 +70,8 @@ enableEmoji     = true
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   # And you can even create generic menu
