@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ $paginator := .Paginate .Data.Pages }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
     <main class="posts">
         <h1>{{ .Title }}</h1>
         {{ if .Content }}
