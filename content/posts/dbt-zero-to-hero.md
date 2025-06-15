@@ -8,6 +8,7 @@ cover: /media/adrian-sulyok-sczNLg6rrhQ-unsplash.jpg
 CoverCaption: "Photo by [Adrian Sulyok](https://unsplash.com/@sulyok_imaging?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/). [License](https://unsplash.com/license)."
 tags:
   - dbt
+  - ETL
   - DataBuildTool
   - dummies
   - SQL
