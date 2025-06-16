@@ -4,7 +4,7 @@
 {{ $secureJS := slice $main $menu $prism | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
 <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 <script async src="https://ackee.vfiles.no/tracker.js" data-ackee-server="https://ackee.vfiles.no" data-ackee-domain-id="fdaa6a93-a622-4a84-b856-4f2cf93150b5" data-ackee-opts='{ "detailed": true }'></script>
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {{ range $val := $.Site.Params.customJS }}
     {{ if gt (len $val) 0 }}
         <script src="{{ $val }}"></script>
