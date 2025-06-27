@@ -65,7 +65,7 @@
 - [tryhackme](https://simpleicons.org/?q=tryhackme)
 - [tumblr](https://simpleicons.org/?q=tumblr)
 - [twitch](https://simpleicons.org/?q=twitch)
-- [twitter](https://simpleicons.org/?q=twitter)
+- [x](https://simpleicons.org/?q=x)
 - [unsplash](https://simpleicons.org/?q=unsplash)
 - [whatsapp](https://simpleicons.org/?q=whatsapp)
 - [xampp](https://simpleicons.org/?q=xampp)
