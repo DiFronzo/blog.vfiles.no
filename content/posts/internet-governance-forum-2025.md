@@ -21,7 +21,7 @@ I just returned from the 20th annual Internet Governance Forum (IGF) 2025, held 
 
 This year’s gathering drew over 8,000 delegates—government officials, civil society advocates, technical experts, youth leaders, and private-sector stakeholders—who joined forces to address pivotal challenges. From Africa’s urgent connectivity and policy needs to inventive sessions like the “Tower of Babel Chaos,” where participants navigated language barriers, the IGF 2025 brought both critical issues and bold experiments to the fore.
 
-In the posts ahead, I’ll dive into the highlights that had me buzzing: Africa’s digital ambitions, grassroots governance crossroads, the promise of AI‑powered translation, and calls for stronger institutional backing. Stay tuned for deeper reflections, session insights, and on‑the‑ground impressions shaping our shared digital future.
+In the posts ahead, I’ll dive into how IGF 2025 was organized.
 
 {{< image src="/media/igf/IMG_4074.JPG" alt="Maria Ressa talking at the IGF 2025." class="center" attrlink="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 caption="Maria Ressa talking at the IGF 2025." attr="Andreas Lien, CC BY-SA 4.0." >}}
@@ -73,7 +73,11 @@ In a nod to global inclusivity, every session integrated virtual participation�
 {{< image src="/media/igf/IMG_4076.JPG" alt="Food at the conferance." class="center" attrlink="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 caption="Food at the conferance." attr="Andreas Lien, CC BY-SA 4.0." >}}
 
-Thanks for a great conferance that also was free to enter.
+Thanks for a great conference that also was free to enter.
+
+The accessibility and openness of IGF 2025 made it a space where anyone—regardless of background or budget—could take part in shaping the future of the internet. That spirit of inclusion is exactly what digital governance needs right now: more voices, more perspectives, more collaboration.
+
+Until next time—onward toward a more open, equitable internet.
 
 {{< image src="/media/igf/IMG_4081.JPG" alt="A blue lanyard from IGF 2025 in Norway, featuring the United Nations emblem and the text “IGF 2025 Norway” repeatedly printed along its length, lying on a wooden surface." class="center" attrlink="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 caption="Lanyard from the Internet Governance Forum 2025, held in Lillestrøm, Norway — a small souvenir from a globally significant event." attr="Andreas Lien, CC BY-SA 4.0." >}}
