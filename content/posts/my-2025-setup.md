@@ -1,26 +1,31 @@
 ---
 title: "My 2025 Setup"
-date: 2025-07-03T19:00:10+01:00
-draft: true
+date: 2025-07-08T11:00:10+01:00
+draft: false
+author: Andreas Lien
 toc: false
 tags:
   - setup
   - 2025
   - software
   - computer
+  - productivity
+  - apple
+  - mac
 ---
+This is my 2025 setup.
 
 # Software & Productivity
-* brew as package manager
-* asdf as language & tools management
-* VS Code as code editor
-* Bear as notes keeping
-* Arc as browser
-* Kagi as search engine
-* ChatGPT as AI assistant
-* Bruno as API client
-* OrbStack as Docker desktop replacement, plus virtual machines
-* Spotify as music streaming
+* [brew](https://brew.sh/) as package manager
+* [asdf](https://asdf-vm.com/) as language & tools management
+* [VS Code](https://code.visualstudio.com/) as code editor with Copilot integration
+* [Bear](https://bear.app/) as notes keeping
+* [Arc](https://arc.net/) as browser
+* [Kagi](https://kagi.com/) as search engine
+* [ChatGPT](https://openai.com/) as AI assistant
+* [Bruno](https://www.usebruno.com/) as API client
+* [OrbStack](https://orbstack.dev/) as Docker desktop replacement, plus virtual machines
+* [Spotify](https://www.spotify.com/) as music streaming
 * Apple ecosystem for mail, calendar, reminders, messaging, and more.
 
 # Degoogling
