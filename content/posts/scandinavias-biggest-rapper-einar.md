@@ -18,7 +18,7 @@ Nils Erik Einar Grönberg AKA. **Einár** was a Swedish rapper. The 19 year old 
 
 {{< image src="/media/Einar.jpg" alt="Image of Einàr in 2020."
 class="center"
-attrlink="https://www.mynewsdesk.com/se/sonybmg/images/einar-pressbild-1922227"
+attrlink="https://web.archive.org/web/20220615123615/https://www.mynewsdesk.com/se/sonybmg/images/einar-pressbild-1922227"
 caption="Press image of Einàr in 2020." attr="Pontus Esse Carmback, CC BY 3.0" >}}
 
 > "It is a young life that has been extinguished, and I understand that he has meant a lot to many young people," [said](https://www.tv4.se/klipp/va/13723095/stefan-lofven-om-mordet-pa-einar-tragiskt-att-annu-ett-liv-slackts) Swedish Prime Minister [Stefan Löfven](https://en.wikipedia.org/wiki/Stefan_L%C3%B6fven).
