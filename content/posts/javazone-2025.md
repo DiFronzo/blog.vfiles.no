@@ -54,7 +54,7 @@ caption="Presentation room at JavaZone, set up for talks and lightning sessions.
 Organized entirely by volunteers from javaBin, JavaZone remains the biggest community-driven Java conference in Norway, consistently fueled by passion and devotion to the developer community since 2001.
 
 Throughout the conference:
-* **Food service** was seamlessly integrated into the exhibition hall, eliminating long lunch queues and allowing attendees to grab bites anytime between sessions. ￼
+* **Food service** was seamlessly integrated into the exhibition hall, eliminating long lunch queues and allowing attendees to grab bites anytime between sessions.
 * **The Roman Empire theme** (honoring the “Romerike” region) added a playful, immersive vibe—booths and food stalls were stylized accordingly, creating a festive atmosphere that tied together culture and tech.
 
 {{< image src="/media/javazone/beer.jpg" alt="A metal bucket filled with several silver beer cans labeled “Ølsmia.” The bucket is placed on a table, and people are standing around in the background, some reaching for cans." class="center" attrlink="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
