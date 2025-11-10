@@ -58,7 +58,7 @@ Throughout the conference:
 * **The Roman Empire theme** (honoring the “Romerike” region) added a playful, immersive vibe—booths and food stalls were stylized accordingly, creating a festive atmosphere that tied together culture and tech.
 
 {{< image src="/media/javazone/beer.jpg" alt="A metal bucket filled with several silver beer cans labeled “Ølsmia.” The bucket is placed on a table, and people are standing around in the background, some reaching for cans." class="center" attrlink="https://creativecommons.org/licenses/by-sa/4.0/deed.en"
-caption="A bucket of Ølsmia beer cans served at an event." attr="License: Andreas Lien, CC BY-SA 4.0." >}}
+caption="A bucket of Ølsmia beer cans served at JavaZone." attr="License: Andreas Lien, CC BY-SA 4.0." >}}
 
 # Social & Fringe Events
 
