@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ML on A blog</title><link>https://blog.vfiles.no/tags/ml/</link><description>Recent content in ML on A blog</description><generator>Hugo</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank" rel="noopener"&gt;CC BY-SA 4.0&lt;/a&gt;, except where indicated otherwise</copyright><lastBuildDate>Fri, 08 Oct 2021 16:48:41 +0200</lastBuildDate><atom:link href="https://blog.vfiles.no/tags/ml/index.xml" rel="self" type="application/rss+xml"/><item><title>Machine Learning with Wikidata</title><link>https://blog.vfiles.no/posts/machine-learning-with-wikidata/</link><pubDate>Fri, 08 Oct 2021 16:48:41 +0200</pubDate><guid>https://blog.vfiles.no/posts/machine-learning-with-wikidata/</guid><description>&lt;p&gt;This tutorial will be dedicated to understanding how to use the linear
+regression algorithm with Wikidata to make predictions. For a detailed
+explanation of how this algorithm works please read the
+&lt;a href="https://en.wikipedia.org/wiki/Wikipedia"&gt;Wikipedia&lt;/a&gt; article:
+&lt;a href="https://en.wikipedia.org/wiki/Linear_regression"&gt;linear regression&lt;/a&gt;. In this
+walkthrough
+&lt;a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29"&gt;Python&lt;/a&gt; is used.&lt;/p&gt;
+&lt;h3 id="importing-modulespackages"&gt;Importing Modules/Packages&lt;/h3&gt;
+&lt;p&gt;Before we start coding, import/install all of the following packages:
+&lt;a href="https://pypi.org/project/numpy/"&gt;NumPy&lt;/a&gt;,
+&lt;a href="https://pypi.org/project/pandas/"&gt;Pandas&lt;/a&gt;, and
+&lt;a href="https://pypi.org/project/scikit-learn/"&gt;Sklearn&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# -*- coding: utf-8 -*-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; json
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; numpy &lt;span style="color:#66d9ef"&gt;as&lt;/span&gt; np
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; pandas &lt;span style="color:#66d9ef"&gt;as&lt;/span&gt; pd
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; sklearn
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;from&lt;/span&gt; collections &lt;span style="color:#f92672"&gt;import&lt;/span&gt; defaultdict
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;from&lt;/span&gt; sklearn &lt;span style="color:#f92672"&gt;import&lt;/span&gt; linear_model
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="loading-in-our-data"&gt;Loading in Our Data&lt;/h3&gt;
+&lt;p&gt;Now it&amp;rsquo;s time for some data collection from Wikidata. For this example we are
+using the yearly (average) population stacked by country in a query (linked
+further down). This gives us a lot of interesting values and some with faults,
+unfortunately. I have chosen to filter this query to only include values from
+2005 and newer. How you choose to import the query into the script is your
+decision. A passibility is to
+&lt;a href="https://www.wikidata.org/wiki/Wikidata:Pywikibot_-_Python_3_Tutorial/Iterate_over_a_SPARQL_query"&gt;iterate over a SPARQL query&lt;/a&gt;
+by downloading the &lt;code&gt;.rq&lt;/code&gt; file or just download a
+&lt;a href="https://en.wikipedia.org/wiki/JSON"&gt;JSON&lt;/a&gt; file of the result from the
+&lt;a href="https://query.wikidata.org"&gt;query.wikidata.org&lt;/a&gt; site. Once you&amp;rsquo;ve downloaded
+the data set and placed it into your main directory (of the Python code) you
+will first need to clean the data, and later load it in using the pandas module.&lt;/p&gt;</description></item></channel></rss>

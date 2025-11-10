@@ -1,0 +1,1744 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on A blog</title><link>https://blog.vfiles.no/posts/</link><description>Recent content in Posts on A blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank" rel="noopener"&gt;CC BY-SA 4.0&lt;/a&gt;, except where indicated otherwise</copyright><lastBuildDate>Mon, 08 Sep 2025 18:57:12 +0200</lastBuildDate><atom:link href="https://blog.vfiles.no/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaZone 2025</title><link>https://blog.vfiles.no/posts/javazone-2025/</link><pubDate>Mon, 08 Sep 2025 18:57:12 +0200</pubDate><guid>https://blog.vfiles.no/posts/javazone-2025/</guid><description>&lt;p&gt;JavaZone 2025—Scandinavia’s landmark developer conference—delivered an exciting, two-day immersion into the world of Java held for the first time at Nova Spektrum in Lillestrøm on September 3–4, 2025.&lt;/p&gt;
+&lt;h1 id="a-fresh-venue-nova-spektrum"&gt;A Fresh Venue: Nova Spektrum&lt;/h1&gt;
+&lt;p&gt;With Oslo Spektrum under renovation, JavaZone relocated to Nova Spektrum. Just a short 10-minute train ride from Oslo, the venue offered significantly more space, enhancing the attendee experience with larger, more accessible rooms and an open exhibition hall—a welcome change over previous years.&lt;/p&gt;</description><content type="html"><![CDATA[<p>JavaZone 2025—Scandinavia’s landmark developer conference—delivered an exciting, two-day immersion into the world of Java held for the first time at Nova Spektrum in Lillestrøm on September 3–4, 2025.</p>
+<h1 id="a-fresh-venue-nova-spektrum">A Fresh Venue: Nova Spektrum</h1>
+<p>With Oslo Spektrum under renovation, JavaZone relocated to Nova Spektrum. Just a short 10-minute train ride from Oslo, the venue offered significantly more space, enhancing the attendee experience with larger, more accessible rooms and an open exhibition hall—a welcome change over previous years.</p>
+
+<figure class="center">
+    
+      <img src="/media/javazone/doom.jpg" alt="The info stand at JavaZone 2025." />
+    
+    
+    <figcaption>
+        <p>
+        The info stand at JavaZone 2025.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            License: Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h1 id="more-attendees-more-energy">More Attendees, More Energy</h1>
+<p>The move didn’t slow momentum—JavaZone 2025 welcomed approximately 3,800 developers, a few hundred more than the previous year, proving that the excitement for this community-driven event remains strong.</p>
+
+<figure class="center">
+    
+      <img src="/media/javazone/gjensidige.jpg" alt="The Gjensidige stand at JavaZone 2025." />
+    
+    
+    <figcaption>
+        <p>
+        The Gjensidige stand at JavaZone 2025.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            License: Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h1 id="programming-highlights">Programming Highlights</h1>
+<p>With over 100 speakers, the conference brought together engineers, architects, and industry leaders exploring themes like Java development, cloud-native architectures, DevOps, security, and more.</p>
+
+<figure class="center">
+    
+      <img src="/media/javazone/hall.jpg" alt="A large convention hall filled with people sitting at tables and walking around. On the left, there is a stage with a “JavaZone” sign above it, and on the right are various booths, including one from Storebrand. The lighting is dim with blue and purple spotlights, creating a lively atmosphere." />
+    
+    
+    <figcaption>
+        <p>
+        Scene from the JavaZone conference, where participants gather around booths and seating areas in the convention hall.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            License: Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>A standout feature was the pre-conference workshop day, followed by two full days of lightning talks—quick, dynamic presentations packed with insights.</p>
+<p>Notable Sessions:</p>
+<ul>
+<li><strong>“Building Secure AI Agents with Quarkus LangChain4j”</strong> – A hands-on workshop guiding participants through AI agent development and security.</li>
+<li><strong>“Local Development in the AI Era”</strong> – Explored strategies to run AI models and code assistants entirely on local machines using tools like Ollama and Podman.</li>
+<li><strong>“Non-deterministic? No problem! You can deal with it!”</strong> – Tackled testing AI’s unpredictable nature using Quarkus, Testcontainers, and more.</li>
+<li><strong>“Boost Developer Productivity and Experience: A Deep Dive into Quarkus”</strong> – Demonstrated how Quarkus accelerates development workflows with features like live coding, Testcontainers, native images, and AI integration.</li>
+</ul>
+
+<figure class="center">
+    
+      <img src="/media/javazone/room.jpg" alt="A large presentation room with rows of empty chairs facing two big screens displaying the JavaZone logo and the Roman numeral VII. Two speakers stand on stage at a podium preparing for a talk, while a few attendees sit scattered in the audience. The room is dimly lit, with focused stage lighting." />
+    
+    
+    <figcaption>
+        <p>
+        Presentation room at JavaZone, set up for talks and lightning sessions.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            License: Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h1 id="a-community-first-approach">A Community-First Approach</h1>
+<p>Organized entirely by volunteers from javaBin, JavaZone remains the biggest community-driven Java conference in Norway, consistently fueled by passion and devotion to the developer community since 2001.</p>
+<p>Throughout the conference:</p>
+<ul>
+<li><strong>Food service</strong> was seamlessly integrated into the exhibition hall, eliminating long lunch queues and allowing attendees to grab bites anytime between sessions.</li>
+<li><strong>The Roman Empire theme</strong> (honoring the “Romerike” region) added a playful, immersive vibe—booths and food stalls were stylized accordingly, creating a festive atmosphere that tied together culture and tech.</li>
+</ul>
+
+<figure class="center">
+    
+      <img src="/media/javazone/beer.jpg" alt="A metal bucket filled with several silver beer cans labeled “Ølsmia.” The bucket is placed on a table, and people are standing around in the background, some reaching for cans." />
+    
+    
+    <figcaption>
+        <p>
+        A bucket of Ølsmia beer cans served at JavaZone.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            License: Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h1 id="social--fringe-events">Social &amp; Fringe Events</h1>
+<p>JavaZone’s famed evening party included music, food, and community bonding—a perfect way to unwind and network. Lightning talks also made for a spontaneous and engaging way to share ideas between sessions.</p>
+
+<figure class="center">
+    
+      <img src="/media/javazone/ylvis.jpg" alt="A concert stage with bright lights and large screens, where the Norwegian duo Ylvis is performing in front of a crowd. The audience is gathered in a dark hall, illuminated by colorful stage lighting." />
+    
+    
+    <figcaption>
+        <p>
+        Ylvis closing the event with a live concert performance.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            License: Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>JavaZone 2025 exceeded expectations—despite a venue change, it maintained its warm, inclusive spirit and scaled up with ease. With richer sessions, a refreshed venue, strong attendance, and standout community energy, the conference reaffirmed its place as a can’t-miss event for Java practitioners and enthusiasts.</p>
+]]></content></item><item><title>My 2025 Setup</title><link>https://blog.vfiles.no/posts/my-2025-setup/</link><pubDate>Tue, 08 Jul 2025 11:00:10 +0100</pubDate><guid>https://blog.vfiles.no/posts/my-2025-setup/</guid><description>&lt;p&gt;This is my 2025 setup.&lt;/p&gt;
+&lt;h1 id="software--productivity"&gt;Software &amp;amp; Productivity&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://brew.sh/"&gt;brew&lt;/a&gt; as package manager&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://asdf-vm.com/"&gt;asdf&lt;/a&gt; as language &amp;amp; tools management&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://code.visualstudio.com/"&gt;VS Code&lt;/a&gt; as code editor with Copilot integration&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bear.app/"&gt;Bear&lt;/a&gt; as notes keeping&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arc.net/"&gt;Arc&lt;/a&gt; as browser&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kagi.com/"&gt;Kagi&lt;/a&gt; as search engine&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/"&gt;ChatGPT&lt;/a&gt; as AI assistant&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.usebruno.com/"&gt;Bruno&lt;/a&gt; as API client&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://orbstack.dev/"&gt;OrbStack&lt;/a&gt; as Docker desktop replacement, plus virtual machines&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.spotify.com/"&gt;Spotify&lt;/a&gt; as music streaming&lt;/li&gt;
+&lt;li&gt;Apple ecosystem for mail, calendar, reminders, messaging, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="degoogling"&gt;Degoogling&lt;/h1&gt;
+&lt;p&gt;As can be seen, I am using Kagi, which delivers excellent results without any garbage or ads, instead of Google. I also use email with my own domain through Apple’s iCloud email system, which allows for custom domains, as well as calendar and other features, all outside Google’s domain. Unfortunately, I have to maintain my Google account to use YouTube and occasionally for sites that do not allow creating accounts with a username and password, but only through Single Sign-On (SSO).&lt;/p&gt;</description><content type="html"><![CDATA[<p>This is my 2025 setup.</p>
+<h1 id="software--productivity">Software &amp; Productivity</h1>
+<ul>
+<li><a href="https://brew.sh/">brew</a> as package manager</li>
+<li><a href="https://asdf-vm.com/">asdf</a> as language &amp; tools management</li>
+<li><a href="https://code.visualstudio.com/">VS Code</a> as code editor with Copilot integration</li>
+<li><a href="https://bear.app/">Bear</a> as notes keeping</li>
+<li><a href="https://arc.net/">Arc</a> as browser</li>
+<li><a href="https://kagi.com/">Kagi</a> as search engine</li>
+<li><a href="https://openai.com/">ChatGPT</a> as AI assistant</li>
+<li><a href="https://www.usebruno.com/">Bruno</a> as API client</li>
+<li><a href="https://orbstack.dev/">OrbStack</a> as Docker desktop replacement, plus virtual machines</li>
+<li><a href="https://www.spotify.com/">Spotify</a> as music streaming</li>
+<li>Apple ecosystem for mail, calendar, reminders, messaging, and more.</li>
+</ul>
+<h1 id="degoogling">Degoogling</h1>
+<p>As can be seen, I am using Kagi, which delivers excellent results without any garbage or ads, instead of Google. I also use email with my own domain through Apple’s iCloud email system, which allows for custom domains, as well as calendar and other features, all outside Google’s domain. Unfortunately, I have to maintain my Google account to use YouTube and occasionally for sites that do not allow creating accounts with a username and password, but only through Single Sign-On (SSO).</p>
+]]></content></item><item><title>Internet Governance Forum 2025</title><link>https://blog.vfiles.no/posts/internet-governance-forum-2025/</link><pubDate>Sat, 28 Jun 2025 00:05:00 +0200</pubDate><guid>https://blog.vfiles.no/posts/internet-governance-forum-2025/</guid><description>&lt;p&gt;I just returned from the 20th annual Internet Governance Forum (IGF) 2025, held in Lillestrøm (near Oslo), Norway from 23–27 June under the banner “Building Digital Governance Together”. It was a powerful milestone—not just marking two decades of global multistakeholder dialogue, but also showcasing Norway’s commitment to fostering inclusive, sustainable, and collaborative digital governance.&lt;/p&gt;
+&lt;p&gt;This year’s gathering drew over 8,000 delegates—government officials, civil society advocates, technical experts, youth leaders, and private-sector stakeholders—who joined forces to address pivotal challenges. From Africa’s urgent connectivity and policy needs to inventive sessions like the “Tower of Babel Chaos,” where participants navigated language barriers, the IGF 2025 brought both critical issues and bold experiments to the fore.&lt;/p&gt;</description><content type="html"><![CDATA[<p>I just returned from the 20th annual Internet Governance Forum (IGF) 2025, held in Lillestrøm (near Oslo), Norway from 23–27 June under the banner “Building Digital Governance Together”. It was a powerful milestone—not just marking two decades of global multistakeholder dialogue, but also showcasing Norway’s commitment to fostering inclusive, sustainable, and collaborative digital governance.</p>
+<p>This year’s gathering drew over 8,000 delegates—government officials, civil society advocates, technical experts, youth leaders, and private-sector stakeholders—who joined forces to address pivotal challenges. From Africa’s urgent connectivity and policy needs to inventive sessions like the “Tower of Babel Chaos,” where participants navigated language barriers, the IGF 2025 brought both critical issues and bold experiments to the fore.</p>
+<p>In the posts ahead, I’ll dive into how IGF 2025 was organized.</p>
+
+<figure class="center">
+    
+      <img src="/media/igf/IMG_4074.JPG" alt="Maria Ressa talking at the IGF 2025." />
+    
+    
+    <figcaption>
+        <p>
+        Maria Ressa talking at the IGF 2025.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="how-igf2025-was-organized-a-multilayered-event-experience">How IGF 2025 Was Organized: A Multilayered Event Experience</h2>
+<p>Attending IGF 2025 in Lillestrøm (June 23–27) felt like being part of a living, breathing ecosystem of internet governance. Event organizers masterfully structured the gathering into complementary formats, ensuring rich learning, networking, and creative breakthroughs. Here’s how the forum came together:</p>
+<h3 id="-workshops--open-forums">🧩 Workshops &amp; Open Forums</h3>
+<p>These were the heart of the program: 90-minute deep dives where experts, activists, and newcomers discussed everything from data governance principles to digital identities. Open Forums added another layer—90-minute sessions hosted by major organizations like ICANN or UNESCO, inviting debate on current work and Q&amp;A.</p>
+<h3 id="-lightning-talks--flash-sessions">⚡ Lightning Talks &amp; Flash Sessions</h3>
+<p>Need a quick hit of inspiration? Lightning Talks (10–20 minutes) and Flash Sessions were the high-speed engines of IGF—concentrated bursts where fresh ideas, project updates, or research findings were shared with the audience.</p>
+<h3 id="-main--high-level-sessions">🎙️ Main &amp; High-Level Sessions</h3>
+<p>The Plenary Hall hosted flagship debates: high-level panels and focus sessions on topics like AI, equity, and the internet’s future. These main sessions framed the broader discourse for the week.</p>
+
+<figure class="center">
+    
+      <img src="/media/igf/IMG_4075.JPG" alt="Maggie Jones doing the closing remarks of the last day of IGF 2025." />
+    
+    
+    <figcaption>
+        <p>
+        Maggie Jones doing the closing remarks of the last day of IGF 2025.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="-dynamic--best-practice-forums">🤝 Dynamic &amp; Best Practice Forums</h3>
+<p>In addition to workshops and main tracks, IGF 2025 featured Dynamic Coalition meetings—stakeholder-driven working groups focused on themes like IoT, child online safety, or gender and internet governance. There were also Best Practice Forums, where attendees shared successful models and real-world examples.</p>
+<h3 id="-networking-sessions--igf-village">🌐 Networking Sessions &amp; IGF Village</h3>
+<p>Beyond formal sessions, the event was infused with social energy:</p>
+<ul>
+<li>
+<p>Networking rooms offered small-group dialogues on topics like resilience or youth inclusion.</p>
+</li>
+<li>
+<p>IGF Village featured physical and virtual booths from NGOs, tech projects, companies, and institutions—perfect for demos, informal chats, and spontaneous meetups.</p>
+
+  <figure class="center">
+      
+        <img src="/media/igf/IMG_4079.JPG" alt="Some of the booths at the conferance." />
+      
+      
+      <figcaption>
+          <p>
+          Some of the booths at the conferance.
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+              Andreas Lien, CC BY-SA 4.0.
+          </a> 
+          </p> 
+      </figcaption>
+      
+  </figure>
+  
+
+</li>
+</ul>
+<h3 id="-host-country--community-minded-events">🌍 Host Country &amp; Community-Minded Events</h3>
+<p>IGF 2025 emphasized both global reach and local color:</p>
+<ul>
+<li>Host country open stages showcased Norway-led discussions on policy and digital public infrastructure.</li>
+<li>Social events—from opening receptions to a “Walk to the birth of the Internet” in Kjeller—added cultural depth, bonding the community in relaxed settings.</li>
+</ul>
+<h3 id="-hybrid-format--inclusivity">🧭 Hybrid Format &amp; Inclusivity</h3>
+<p>In a nod to global inclusivity, every session integrated virtual participation—speakers and rapporteurs joined remotely, while on-site attendees engaged in real-time. The result: a truly hybrid experience that welcomed voices across time zones</p>
+
+<figure class="center">
+    
+      <img src="/media/igf/IMG_4076.JPG" alt="Food at the conferance." />
+    
+    
+    <figcaption>
+        <p>
+        Food at the conferance.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>Thanks for a great conference that also was free to enter.</p>
+<p>The accessibility and openness of IGF 2025 made it a space where anyone—regardless of background or budget—could take part in shaping the future of the internet. That spirit of inclusion is exactly what digital governance needs right now: more voices, more perspectives, more collaboration.</p>
+<p>Until next time—onward toward a more open, equitable internet.</p>
+
+<figure class="center">
+    
+      <img src="/media/igf/IMG_4081.JPG" alt="A blue lanyard from IGF 2025 in Norway, featuring the United Nations emblem and the text “IGF 2025 Norway” repeatedly printed along its length, lying on a wooden surface." />
+    
+    
+    <figcaption>
+        <p>
+        Lanyard from the Internet Governance Forum 2025, held in Lillestrøm, Norway — a small souvenir from a globally significant event.
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"> 
+            Andreas Lien, CC BY-SA 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+]]></content></item><item><title>Autonomous Vehicles in Norway - Winter Edition</title><link>https://blog.vfiles.no/posts/autonomous-vehicles-in-norway/</link><pubDate>Fri, 10 Jan 2025 19:33:10 +0100</pubDate><guid>https://blog.vfiles.no/posts/autonomous-vehicles-in-norway/</guid><description>&lt;p&gt;Ruter is according to Wikipedia &amp;ldquo;a public transport authority for Oslo and Akershus counties in Norway&amp;rdquo;.[&lt;a href="https://en.wikipedia.org/w/index.php?title=Ruter&amp;amp;oldid=1253945805"&gt;1&lt;/a&gt;] Ruter suggests that on-demand transportation could be a great alternative to private cars. This autonomous vehicles service would pick you up wherever you are and take you to your destination. By sharing the ride with other passengers, the service could reduce the number of vehicles on the roads in Oslo.[&lt;a href="https://ruter.no/selvkjorende"&gt;2&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;To achieve this have Ruter startet a pilot project with self-driving vehicles in &lt;a href="https://en.wikipedia.org/wiki/Grorud_Valley"&gt;the Grorud Valley&lt;/a&gt;, Oslo. The purpose of the pilot project is to establish and test a small-scale self-driving transportation service and gain insights and experience from it.[&lt;a href="https://ruter.no/selvkjorende"&gt;2&lt;/a&gt;] This is the pilot project i&amp;rsquo;m a part of.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Ruter is according to Wikipedia &ldquo;a public transport authority for Oslo and Akershus counties in Norway&rdquo;.[<a href="https://en.wikipedia.org/w/index.php?title=Ruter&amp;oldid=1253945805">1</a>] Ruter suggests that on-demand transportation could be a great alternative to private cars. This autonomous vehicles service would pick you up wherever you are and take you to your destination. By sharing the ride with other passengers, the service could reduce the number of vehicles on the roads in Oslo.[<a href="https://ruter.no/selvkjorende">2</a>]</p>
+<p>To achieve this have Ruter startet a pilot project with self-driving vehicles in <a href="https://en.wikipedia.org/wiki/Grorud_Valley">the Grorud Valley</a>, Oslo. The purpose of the pilot project is to establish and test a small-scale self-driving transportation service and gain insights and experience from it.[<a href="https://ruter.no/selvkjorende">2</a>] This is the pilot project i&rsquo;m a part of.</p>
+<h2 id="winter-in-the-loop">Winter in the Loop</h2>
+<p>What makes this pilot particularly interesting is the setting: Norway, in winter. Snow-covered roads, icy surfaces, freezing rain, low light levels, and unpredictable weather patterns create conditions that challenge even the most experienced human drivers. For autonomous vehicles (AVs), these challenges are multiplied.</p>
+<p>Sensors such as lidar, radar, and cameras are sensitive to snow, slush, and fog. Lane markings may be obscured. Pedestrians are often bundled up and hard to detect. And road edges can disappear under several centimeters of white. Yet, this is exactly the kind of real-world testing that’s needed to make AVs viable in countries like Norway.</p>
+<h2 id="my-first-car-ride">My First Car Ride</h2>
+<p>Using the autonomous vehicle service starts with the app <strong>Selvkjørende</strong>, which was only for beta testing through TestFlight. After downloading and opening the app, you&rsquo;re welcomed by a clean interface that combines traditional public transport options with the new on-demand self-driving service.</p>
+<p>On the home screen, you simply enter your destination. The app then checks for nearby available autonomous vehicles and shows you the estimated wait time. In my case, I selected <strong>Stovner Senter</strong> as my pickup location and was matched with a NIO ES8 vehicle. The app estimated a 7-minute wait, which was far from accurate. It was more like 20 minutes.</p>
+<p>The map interface is detailed and responsive, allowing you to see your location, the approaching vehicle, and the planned route. I was picked up near <strong>Haugenstua Station</strong>, and the app showed real-time updates on the vehicle&rsquo;s progress toward <strong>Stovnertårnet</strong>. Both pickup and drop-off points were clearly marked on the map, and the app even displayed how long the vehicle would wait at the pickup location.</p>
+
+<figure class="center">
+    
+      <img src="/media/ruter/screenshot.jpg" alt="image of the operator inside the car with its instuments." width="720" />
+    
+    
+    <figcaption>
+        <p>
+        Image 2: Screenshot from the app.
+        
+            Copyright belongs to Ruter. Fair use.
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>During the ride, I could follow the car’s movements on the map in real-time. The interface was smooth, with clear communication about estimated arrival times and vehicle ID. The vehicle itself was quiet and comfortable, and a safety operator was present throughout the journey. It felt futuristic, yet surprisingly normal.</p>
+<p>This first ride gave me a sense of how intuitive the user experience is. Everything from ordering the ride to completing the trip was designed to be as seamless as using any other ride-hailing app.</p>
+
+<figure class="center">
+    
+      <img src="/media/ruter/IMG_3127_censored.jpg" alt="image of the operator inside the car with its instuments." width="720" />
+    
+    
+    <figcaption>
+        <p>
+        Image 3: The pilot project has a operator that kicks in when needed.
+        <a href="https://commons.wikimedia.org/wiki/File:Nio_ES8_-_Autonomous_car_%28Ruter%29_inside.jpg"> 
+            Premeditated, CC BY-SA 4.0, via Wikimedia Commons.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure class="center">
+    
+      <img src="/media/ruter/screenshot2.jpg" alt="image of the operator inside the car with its instuments." width="720" />
+    
+    
+    <figcaption>
+        <p>
+        Image 4: Screenshot from the app when waiting for the car and during the trip.
+        
+            Copyright belongs to Ruter and Apple Maps. Fair use.
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="the-passenger-experience">The Passenger Experience</h3>
+<p>Inside the car, each passenger has a front-facing screen mounted to the seat in front of them. This display shows the vehicle&rsquo;s current location, speed, nearby traffic, and remaining time to drop-off — similar to what you&rsquo;d see in a robotaxi concept. At one point during the ride, the display indicated &ldquo;8 minutes to Stovnertårnet&rdquo;, and I could follow our lane position and surrounding vehicles visually.</p>
+<p>Despite the car driving itself, it felt very safe. The safety operator sat in the driver&rsquo;s seat ready to take over if needed, but the vehicle handled everything on its own: navigating traffic, stopping at intersections, and making smooth turns.</p>
+<p>A sticker in the car reminded us not to disturb the safety operator — an important detail that subtly reinforces the experimental nature of the ride. Still, from a passenger’s point of view, the entire journey felt well thought-out and user-friendly.</p>
+
+<figure class="center">
+    
+      <img src="/media/ruter/IMG_3134-ezgif.com-video-to-gif-converter.gif" alt="image of the infotanment screen showing what the sensor captures." width="720" />
+    
+    
+    <figcaption>
+        <p>
+        Image 5: Here are we waiting for the traffic ligh.
+        
+            Andreas Lien, CC BY-SA 4.0.
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>This first ride gave me a sense of how intuitive the user experience is. Everything from ordering the ride to completing the trip was designed to be as seamless as using any other ride-hailing app — but with a significant twist: no human driver behind the wheel - or maybe that will be possible in the summer.</p>
+<h1 id="obstacles">Obstacles</h1>
+<p>In progress..</p>
+
+<figure class="center">
+    
+      <img src="/media/ruter/IMG_3145.JPG" alt="image of a three-way street where only one lane i open becouse of road work." width="720" />
+    
+    
+    <figcaption>
+        <p>
+        Image 6: This was the first obstacles for the autonomous vehicle.
+        
+            Andreas Lien, CC BY-SA 4.0.
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>
+
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+
+<style>
+#slide-window {
+    display: block;
+    position: relative;
+    height: 720px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    height: 720px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    height: 720px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/ruter/road/IMG_3141.JPG);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/ruter/road/IMG_3143.JPG);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/ruter/road/IMG_3144.JPG);">
+                </li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script>
+
+Image 7: How the road was the day of the car ride. License: Andreas Lien, CC BY-SA 4.0.</p>
+]]></content></item><item><title>Riding the AI Hype Train: Destination or Derailment?</title><link>https://blog.vfiles.no/posts/riding-the-ai-hype-train/</link><pubDate>Sat, 01 Jun 2024 02:02:51 +0200</pubDate><guid>https://blog.vfiles.no/posts/riding-the-ai-hype-train/</guid><description>&lt;p&gt;Artificial intelligence (AI) has swiftly transitioned from a niche technology to a mainstream phenomenon, heralded as the next big revolution in tech. Everywhere you turn, AI is making headlines. From self-driving cars and personalized medicine to intelligent robots and chatbots, the promise of AI seems boundless. Nvidia, the company whose chips power much of the AI revolution, recently reported record profits, sparking investor enthusiasm and further fueling the AI hype. However, as we bask in the glow of AI’s potential, it’s crucial to ask: are we aboard a runaway train heading for a catastrophic derailment?&lt;/p&gt;</description><content type="html"><![CDATA[<p>Artificial intelligence (AI) has swiftly transitioned from a niche technology to a mainstream phenomenon, heralded as the next big revolution in tech. Everywhere you turn, AI is making headlines. From self-driving cars and personalized medicine to intelligent robots and chatbots, the promise of AI seems boundless. Nvidia, the company whose chips power much of the AI revolution, recently reported record profits, sparking investor enthusiasm and further fueling the AI hype. However, as we bask in the glow of AI’s potential, it’s crucial to ask: are we aboard a runaway train heading for a catastrophic derailment?</p>
+<p>The fascination with AI is understandable. The technology holds incredible promise across various domains. In healthcare, AI-driven personalized medicine could tailor treatments to individual patients, improving outcomes and reducing side effects. AI can also assist in diagnosing diseases, analyzing medical images with a level of precision that surpasses human capabilities. Imagine a world where early detection of diseases like cancer is possible through routine scans, significantly increasing survival rates.</p>
+<p>In the realm of transportation, self-driving cars promise to reduce accidents, ease traffic congestion, and provide mobility solutions for the elderly and disabled. Companies like Tesla and Waymo are at the forefront of this transformation, with ongoing trials and promising advancements. Autonomous vehicles could revolutionize urban planning, reduce carbon emissions, and transform the logistics industry.</p>
+<p>AI-powered tools in business can automate repetitive tasks, provide insights from vast amounts of data, and even help in decision-making processes. This could lead to unprecedented productivity boosts and cost savings. Businesses can use AI to forecast demand, optimize supply chains, and personalize customer experiences, leading to higher efficiency and satisfaction.</p>
+<p>In our daily lives, AI is poised to become an integral part of our routines. From smart home devices that learn and anticipate our needs to virtual assistants that manage our schedules, the applications are endless. Imagine waking up to a home that adjusts the temperature to your preference, prepares your morning coffee, and organizes your daily tasks, all autonomously.</p>
+<p>The excitement around AI is not just confined to tech enthusiasts. Investors are also caught up in the frenzy. Nvidia’s record profits are a testament to this enthusiasm, with its GPUs (graphics processing units) being a critical component in AI research and development. Companies across various sectors are investing heavily in AI, driving up valuations and stock prices. The stock market&rsquo;s response to AI advancements mirrors the dot-com bubble of the late &rsquo;90s, characterized by rapid growth and soaring expectations.</p>
+<p>However, beneath the surface of this hype lies a series of concerns that we must address to avoid a potential crash. AI has shown remarkable capabilities, but it’s not a panacea. The technology still has significant limitations, and in many cases, the hype outstrips the reality. For instance, fully autonomous vehicles are still years away from being a common sight on roads due to technical and regulatory challenges. Overpromising can lead to unrealistic expectations and eventual disillusionment.</p>
+<p>The deployment of AI raises critical ethical questions. Issues like job displacement, data privacy, and biased algorithms need careful consideration. The enthusiasm for AI must not overshadow the need for responsible and ethical development and use. The potential for AI to reinforce existing biases and inequalities is a significant concern that requires proactive measures.</p>
+<p>The AI boom has led to inflated valuations and expectations. If AI technologies fail to meet these lofty promises in the near term, we could see a significant market correction, impacting investors and companies alike. The financial instability caused by a sudden burst of the AI bubble could have far-reaching economic consequences.</p>
+<p>As AI systems become more integrated into our lives, ensuring their safety and reliability is paramount. Regulatory frameworks are still catching up with the pace of AI development, leading to potential risks. The lack of standardized regulations can result in inconsistencies and vulnerabilities in AI applications.</p>
+<p>To avoid the pitfalls of the AI hype train, we need a balanced and measured approach. It’s essential to temper expectations with a realistic understanding of AI’s current capabilities and limitations. This will help prevent disillusionment and maintain steady progress. Educating stakeholders about what AI can and cannot do is crucial for setting achievable goals.</p>
+<p>Prioritizing ethical considerations in AI development can mitigate risks related to bias, privacy, and job displacement. Transparency and accountability should be at the forefront of AI innovation. Ethical AI practices include fair data usage, unbiased algorithm training, and inclusive representation in AI research.</p>
+<p>Establishing robust regulatory frameworks will ensure the safe and responsible deployment of AI technologies. Collaboration between governments, industry, and academia is crucial in this regard. Regulations should focus on protecting consumers, ensuring data privacy, and promoting transparency in AI operations.</p>
+<p>The field of AI is rapidly evolving. Continuous learning and adaptation are necessary to stay ahead of potential challenges and leverage new opportunities. Investing in research and development and fostering a culture of innovation can drive sustainable progress in AI.</p>
+<p>AI is poised to transform various industries and aspects of our lives. In healthcare and medicine, AI can revolutionize diagnostics, treatment planning, and patient care. Predictive analytics can help in early disease detection, while AI-powered robots can assist in surgeries. Personalized medicine, driven by AI, can offer tailored treatments based on genetic profiles.</p>
+<p>In education, AI can personalize learning experiences, offering tailored content and feedback to students. Intelligent tutoring systems can adapt to individual learning styles, improving educational outcomes. AI can also assist in administrative tasks, allowing educators to focus more on teaching.</p>
+<p>In finance and banking, AI can enhance fraud detection, automate trading, and provide personalized financial advice. Robo-advisors can manage investment portfolios, while AI-powered chatbots can improve customer service. Predictive analytics can assist in risk management and financial forecasting.</p>
+<p>AI can help in monitoring and managing natural resources, predicting environmental changes, and optimizing energy consumption. AI-driven solutions can support conservation efforts and combat climate change by analyzing vast amounts of environmental data.</p>
+<p>In manufacturing and industry, AI can optimize production processes, improve quality control, and enhance supply chain management. Predictive maintenance can reduce downtime and increase efficiency. AI-powered robots can perform complex tasks, augmenting human capabilities.</p>
+<p>The AI hype train is an exciting journey, filled with promise and potential. However, it’s crucial to navigate this path with caution, ensuring that we address the ethical, social, and technical challenges that lie ahead. By maintaining a balanced perspective and prioritizing responsible development, we can harness the power of AI to create a future that benefits everyone — without risking a devastating crash.</p>
+<p>While the AI revolution offers remarkable opportunities, it also demands a measured and thoughtful approach. We must embrace AI with realistic expectations, ethical considerations, and robust regulations to ensure that this powerful technology serves humanity&rsquo;s best interests. By doing so, we can ride the AI hype train towards a destination of sustainable progress and collective prosperity, avoiding the derailment that unchecked exuberance might bring.</p>
+]]></content></item><item><title>DBT (Data Build Tool): Zero to Hero</title><link>https://blog.vfiles.no/posts/dbt-zero-to-hero/</link><pubDate>Fri, 17 May 2024 01:02:51 +0200</pubDate><guid>https://blog.vfiles.no/posts/dbt-zero-to-hero/</guid><description>&lt;p&gt;Welcome to the first edition of “Andreas takes you on the ride while he learns how to do his job.” Today, we’re diving into dbt (Data Build Tool) to understand its core concepts, project structure, and key components. Whether you&amp;rsquo;re new to dbt or looking to solidify your understanding, this guide will help you go from zero to hero.&lt;/p&gt;
+&lt;h3 id="what-is-dbt"&gt;What is dbt?&lt;/h3&gt;
+&lt;p&gt;Dbt, short for Data Build Tool, is a command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively. It allows you to write modular SQL queries, version control your transformations, and document your data in a consistent, reproducible manner. Dbt empowers data teams to own the entire analytics engineering workflow, from transforming raw data to creating clean, actionable insights.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Welcome to the first edition of “Andreas takes you on the ride while he learns how to do his job.” Today, we’re diving into dbt (Data Build Tool) to understand its core concepts, project structure, and key components. Whether you&rsquo;re new to dbt or looking to solidify your understanding, this guide will help you go from zero to hero.</p>
+<h3 id="what-is-dbt">What is dbt?</h3>
+<p>Dbt, short for Data Build Tool, is a command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively. It allows you to write modular SQL queries, version control your transformations, and document your data in a consistent, reproducible manner. Dbt empowers data teams to own the entire analytics engineering workflow, from transforming raw data to creating clean, actionable insights.</p>
+<h3 id="core-concepts-of-dbt">Core Concepts of dbt</h3>
+<p>Before we delve into the project structure, let’s cover some core concepts:</p>
+<h4 id="models">Models</h4>
+<p>In dbt, a model is simply a SQL file that contains a select statement. Models are the building blocks of your dbt project. Each model file typically represents a transformation step, from raw data to clean, transformed data ready for analysis.</p>
+<h4 id="sources">Sources</h4>
+<p>Sources refer to the raw data tables in your database. Defining sources helps you keep track of the origin of your data and ensures consistency in how you refer to them across your project.</p>
+<h4 id="seeds">Seeds</h4>
+<p>Seeds are CSV files that you can load into your data warehouse. These files can be used to manage reference data, small lookup tables, or any static data you need in your transformations.</p>
+<h4 id="tests">Tests</h4>
+<p>Tests in dbt help you validate your data. You can write custom SQL tests or use built-in tests to ensure data quality and integrity. Common tests include checking for null values, uniqueness, and referential integrity.</p>
+<h4 id="documentation">Documentation</h4>
+<p>Documentation is an integral part of dbt. You can document your models, sources, and tests using YAML files. Dbt also provides a web-based interface to view your documentation and understand your data lineage.</p>
+<h4 id="materializations">Materializations</h4>
+<p>Materializations determine how dbt will build your models in the data warehouse. Common materializations include views, tables, and incremental tables. Each has its own use case, depending on the size of your data and performance requirements.</p>
+<h3 id="exploring-dbts-project-structure">Exploring dbt’s Project Structure</h3>
+<p>A dbt project is organized in a specific structure to facilitate modular, scalable, and maintainable code. Here’s a typical layout of a dbt project:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#ae81ff">dbt_project/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── models/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── marts/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │   ├── finance/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │   │   ├── fct_orders.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │   │   ├── fct_revenue.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │   └── marketing/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │       ├── fct_campaigns.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── staging/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │   ├── stg_customers.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │   ├── stg_orders.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   │</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   └── intermediate/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│       ├── int_customers.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│       ├── int_orders.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── seeds/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── countries.csv</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── currency_rates.csv</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── tests/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── unique_orders.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── not_null_customers.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── macros/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── my_macro.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── snapshots/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── customers_snapshot.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── analyses/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── customer_lifetime_value.sql</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">├── docs/</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│   ├── index.md</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">│</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">└── dbt_project.yml</span>
+</span></span></code></pre></div><h3 id="key-components">Key Components</h3>
+<ol>
+<li>
+<p><strong>Models</strong>: This is where you define your SQL transformations. They are typically organized into subfolders like marts, staging, and intermediate to represent different stages of your data pipeline.</p>
+</li>
+<li>
+<p><strong>Seeds</strong>: These are CSV files that dbt loads into your warehouse. They can be found in the seeds folder.</p>
+</li>
+<li>
+<p><strong>Tests</strong>: Tests help ensure data quality. You can define them in the tests folder.</p>
+</li>
+<li>
+<p><strong>Macros</strong>: Macros are reusable SQL snippets or functions. You define them in the macros folder.</p>
+</li>
+<li>
+<p><strong>Snapshots</strong>: Snapshots track changes to your data over time. They are useful for slowly changing dimensions and can be found in the snapshots folder.</p>
+</li>
+<li>
+<p><strong>Analyses</strong>: This folder contains ad-hoc queries or analyses that you want to perform. They don&rsquo;t typically contribute to your data pipeline but are useful for data exploration.</p>
+</li>
+<li>
+<p><strong>Docs</strong>: Documentation files go here. dbt will render these documents in a web-based interface for easy access.</p>
+</li>
+<li>
+<p><strong>dbt_project.yml</strong>: This is the configuration file for your dbt project. It defines the project’s settings, such as model materializations, seeds, and more.</p>
+</li>
+</ol>
+<h3 id="getting-started-with-dbt">Getting Started with dbt</h3>
+<p>To get started with dbt, follow these steps:</p>
+<ol>
+<li><strong>Install dbt</strong>: Install dbt using pip:</li>
+</ol>
+<pre tabindex="0"><code>pip install dbt
+</code></pre><ol start="2">
+<li><strong>Initialize a dbt Project</strong>: Create a new dbt project by running:</li>
+</ol>
+<pre tabindex="0"><code>dbt init my_project
+</code></pre><ol start="3">
+<li><strong>Configure Your Project</strong>: Edit the <code>dbt_project.yml</code> file to set up your project’s configurations.</li>
+<li><strong>Create Models</strong>: Add your SQL transformation files in the <code>models</code> folder.</li>
+<li><strong>Run Your Project</strong>: Execute your dbt project by running:</li>
+</ol>
+<pre tabindex="0"><code>dbt run
+</code></pre><ol start="6">
+<li><strong>Test Your Models</strong>: Validate your transformations by running:</li>
+</ol>
+<pre tabindex="0"><code>dbt test
+</code></pre><ol start="7">
+<li><strong>Generate Documentation</strong>: Create documentation for your project by running:</li>
+</ol>
+<pre tabindex="0"><code>dbt docs generate
+</code></pre><ol start="8">
+<li>View the documentation with:</li>
+</ol>
+<pre tabindex="0"><code>dbt docs serve
+</code></pre><h3 id="conclusion">Conclusion</h3>
+<p>Dbt is a powerful tool for data transformation and management. By understanding its core concepts, exploring its project structure, and leveraging its key components, you can transform raw data into actionable insights more effectively. Remember, dbt encourages a modular, iterative workflow, making your data transformations more maintainable and scalable.</p>
+<p>Tune in for the next dummies post coming soon. If you also stick around for my non-dbt related writing, I appreciate you. It doesn’t always feel right to promo those posts on LinkedIn, so I am grateful for those of you that read them anyways.</p>
+<p>Subscribe to the RSS feed, tell your friends, you know the drill. Thanks for reading.</p>
+]]></content></item><item><title>Why I Self-Host My Website Analytics</title><link>https://blog.vfiles.no/posts/why-i-self-host-my-analytics/</link><pubDate>Wed, 07 Feb 2024 08:22:22 +0200</pubDate><guid>https://blog.vfiles.no/posts/why-i-self-host-my-analytics/</guid><description>&lt;p&gt;In a deliberate move towards enhancing analytics efficiency and data sovereignty, I recently transitioned from long-term usage of Google Analytics to self-hosted analytics solutions. While ubiquitous, the presence of Google Analytics trackers on most websites raises pertinent ideological and technical considerations, prompting the adoption of self-hosted analytics platforms.&lt;/p&gt;
+&lt;h2 id="enhanced-tracking-efficacy"&gt;Enhanced Tracking Efficacy&lt;/h2&gt;
+&lt;p&gt;One pivotal aspect to highlight is the heightened efficacy of tracking afforded by self-hosted analytics. With an increasing number of internet users employing ad blockers, approximately &lt;a href="https://www.statista.com/statistics/804008/ad-blocking-reach-usage-us/"&gt;26%&lt;/a&gt; of the online populace, the likelihood of obtaining analytics data for individual users is significantly higher with self-hosted solutions. By hosting analytics on dedicated subdomains such as analytics.yourdomain.com, the probability of encountering script blocking is notably diminished.&lt;/p&gt;</description><content type="html"><![CDATA[<p>In a deliberate move towards enhancing analytics efficiency and data sovereignty, I recently transitioned from long-term usage of Google Analytics to self-hosted analytics solutions. While ubiquitous, the presence of Google Analytics trackers on most websites raises pertinent ideological and technical considerations, prompting the adoption of self-hosted analytics platforms.</p>
+<h2 id="enhanced-tracking-efficacy">Enhanced Tracking Efficacy</h2>
+<p>One pivotal aspect to highlight is the heightened efficacy of tracking afforded by self-hosted analytics. With an increasing number of internet users employing ad blockers, approximately <a href="https://www.statista.com/statistics/804008/ad-blocking-reach-usage-us/">26%</a> of the online populace, the likelihood of obtaining analytics data for individual users is significantly higher with self-hosted solutions. By hosting analytics on dedicated subdomains such as analytics.yourdomain.com, the probability of encountering script blocking is notably diminished.</p>
+<h2 id="ideological-integrity-customer-versus-lead">Ideological Integrity: Customer versus Lead</h2>
+<p>A profound ideological shift underpins the migration towards self-hosted analytics, epitomizing a transition from being perceived as a lead to asserting one&rsquo;s status as a valued customer. Google Analytics, with an imposing <a href="https://www.datanyze.com/market-share/web-analytics--1">73% market share</a>, commands a substantial presence in the web analytics landscape. However, the symbiotic relationship between Google Analytics and Google&rsquo;s advertising services underscores a fundamental reality: users are not merely customers but potential leads. This paradigm shift not only underscores a commitment to data privacy but also ensures a more equitable transactional relationship, fostering trust and integrity in analytics practices.</p>
+<p>Moreover, from a data privacy standpoint, self-hosting offers unparalleled control and ownership over visitor data. Alleviating concerns surrounding the extent of data accessibility by third-party entities, self-hosted analytics empower website owners with the autonomy to safeguard sensitive information, reinforcing compliance with stringent data protection regulations.</p>
+<h2 id="embracing-simplicity-and-efficiency">Embracing Simplicity and Efficiency</h2>
+<p>Simplicity, often overshadowed by the allure of complexity, emerges as a guiding principle in the selection of analytics solutions. While Google Analytics boasts a plethora of advanced features catering to diverse analytical needs, the inherent complexity may overshadow its utility for many users. Opting for a self-hosted analytics solution transcends the allure of convoluted functionalities, prioritizing a streamlined user experience tailored to address core analytical requirements. A discerning focus on traffic volume, source attribution, and page engagement underscores the pragmatic approach adopted in the deployment of analytics solutions.</p>
+<h2 id="unveiling-my-new-analytics-framework">Unveiling My New Analytics Framework</h2>
+<p>In embracing the ethos of self-hosted analytics, the adoption of <a href="https://github.com/electerious/Ackee">Ackee</a> emerges as a testament to a professional commitment to privacy, efficiency, and reliability. While the setup process may necessitate a marginally longer time investment relative to conventional alternatives, the dividends reaped in terms of data sovereignty, and analytical fidelity far outweigh the initial setup complexities. Ackee&rsquo;s open-source architecture coupled with its intuitive user interface exemplifies a confluence of technological innovation and user-centric design, culminating in a superlative analytics experience that transcends conventional paradigms.</p>
+<p>In essence, the transition to self-hosted analytics epitomizes a professional evolution towards data autonomy, ideological integrity, and operational efficiency, setting a precedent for conscientious analytics practices in the digital era.</p>
+]]></content></item><item><title>Humans vs. Machines: The End for Competitive Chess</title><link>https://blog.vfiles.no/posts/humans-vs-machines-the-end-for-competitive-chess/</link><pubDate>Wed, 21 Sep 2022 10:06:13 +0200</pubDate><guid>https://blog.vfiles.no/posts/humans-vs-machines-the-end-for-competitive-chess/</guid><description>&lt;p&gt;&lt;em&gt;Please be aware that the views expressed in this poste are solely those of the author and do not represent the official stance of any chess federation or organization.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The world of competitive chess has witnessed a seismic shift in recent years. The traditional clash between human grandmasters has now been joined by an unexpected contender: artificial intelligence. As machines continue to evolve, the question looms large: Is this the end of an era for human supremacy in chess?&lt;/p&gt;</description><content type="html"><![CDATA[<p><em>Please be aware that the views expressed in this poste are solely those of the author and do not represent the official stance of any chess federation or organization.</em></p>
+<p>The world of competitive chess has witnessed a seismic shift in recent years. The traditional clash between human grandmasters has now been joined by an unexpected contender: artificial intelligence. As machines continue to evolve, the question looms large: Is this the end of an era for human supremacy in chess?</p>
+<p>In this article, we delve into the fascinating rivalry between two exceptional players: World Champion <strong>Magnus Carlsen</strong> and rising star <strong>Hans Niemann</strong>. Their encounters on the board have captivated fans, sparked controversies, and raised fundamental questions about the future of the game.</p>
+
+<figure class="center">
+    
+      <img src="/media/carlsen-niemann.png" alt="Image of Carlsen and Niemann." />
+    
+    
+    <figcaption>
+        <p>
+        Magnus Carlsen and Hans Niemann. The two players involved in the controversy.
+        <a href="https://commons.wikimedia.org/wiki/File:Hans_Niemann_2019.png"> 
+            Lennart Ootes, CC BY 4.0. (Carlsen), St. Louis PRO Chess League, CC BY-SA 3.0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h1 id="the-rise-of-magnus-carlsen">The Rise of Magnus Carlsen</h1>
+<h2 id="the-chess-prodigy">The Chess Prodigy</h2>
+<p>Magnus Carlsen burst onto the international chess scene like a comet. His prodigious talent was evident from an early age, and he quickly climbed the ranks. His intuitive understanding of positions, relentless work ethic, and unyielding will to win set him apart. In 2013, he achieved the ultimate pinnacle: becoming the World Chess Champion.</p>
+<h2 id="the-reign-of-carlsen">The Reign of Carlsen</h2>
+<p>Carlsen’s reign has been marked by a unique blend of creativity, precision, and psychological warfare. His mastery of endgames, ability to grind out wins, and uncanny intuition have left opponents bewildered. His famous “Carlsen grind” is a testament to his tenacity—a slow, methodical squeeze that breaks even the most resilient defenses.</p>
+<h2 id="the-machine-challenge">The Machine Challenge</h2>
+<p>But then came the machines. Deep Blue, Stockfish, AlphaZero—the silicon adversaries that threatened to dethrone human champions. Carlsen faced these digital opponents head-on, participating in man-versus-machine matches. His resilience was admirable, but the gap between human and machine seemed to narrow inexorably.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/VcbHmHHwlUQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Magnus Carlsen about cheating in chess"></iframe>
+    </div>
+
+<h1 id="the-emergence-of-hans-niemann">The Emergence of Hans Niemann</h1>
+<h2 id="the-american-prodigy">The American Prodigy</h2>
+<p>Enter Hans Niemann, a young American with fire in his eyes and a hunger for victory. Niemann’s rise has been meteoric. His tactical acumen, fearless play, and audacity against established grandmasters have turned heads. And it was during the 2022 Sinquefield Cup that he etched his name into chess history.</p>
+<h2 id="the-sinquefield-sensation">The Sinquefield Sensation</h2>
+<p>In a matchup against none other than Magnus Carlsen, Niemann caused seismic waves. The world champion, perhaps underestimating his opponent, found himself outplayed. Niemann’s smooth maneuvers and unwavering clock management left Carlsen scrambling. And when the chance arose, Niemann seized it—a victory that reverberated through the chess world.</p>
+<h2 id="the-controversy">The Controversy</h2>
+<p>Carlsen’s withdrawal from the Sinquefield Cup after losing to Niemann sparked controversy. Was it a tacit accusation of cheating? The chess community debated, but Niemann remained undeterred. His audacious play had disrupted the status quo, and the machine-human balance trembled.</p>
+<h1 id="the-endgame">The Endgame</h1>
+<h2 id="a-new-paradigm">A New Paradigm</h2>
+<p>As we witness the clash of titans—Carlsen’s experience against Niemann’s fearlessness—we realize that chess is evolving. Machines analyze billions of positions per second, but humans bring intuition, creativity, and emotion to the board. Perhaps the future lies in a harmonious blend—a symbiosis where humans guide the machines, and machines elevate human play.</p>
+<h2 id="the-final-move">The Final Move</h2>
+<p>So, is this truly the end for competitive chess as we know it? Not quite. The battle rages on, and the pieces dance across the 64 squares. Magnus Carlsen and Hans Niemann—their names etched in chess lore—are the vanguards of this new era. As the clock ticks, we await the final move—the one that will define the future of our beloved game.</p>
+]]></content></item><item><title>LSTM for Human Activity Recognition classification</title><link>https://blog.vfiles.no/posts/lstm-for-har/</link><pubDate>Sat, 19 Feb 2022 12:22:06 +0100</pubDate><guid>https://blog.vfiles.no/posts/lstm-for-har/</guid><description>&lt;p&gt;The approach and results of identifying the most accurate collection of attributes from data acquired by embedded smartphone sensors to detect five different daily activities. In this project, we are using a LSTM feature extraction approach with 784 features to distinguish standing, sitting, walking, walking upstairs and downstairs. This approach is getting an accuracy of 92.4% and F1-score of 92.46% as an average for test, train, and validation from the data set created.&lt;/p&gt;</description><content type="html"><![CDATA[<p>The approach and results of identifying the most accurate collection of attributes from data acquired by embedded smartphone sensors to detect five different daily activities. In this project, we are using a LSTM feature extraction approach with 784 features to distinguish standing, sitting, walking, walking upstairs and downstairs. This approach is getting an accuracy of 92.4% and F1-score of 92.46% as an average for test, train, and validation from the data set created.</p>
+<h2 id="transform-the-data">Transform the data</h2>
+<p>The 3-axis raw signals tAcc-XYZ and tGyro-XYZ from the accelerometer and gyroscope were used to create this data set. At a constant rate of 50 Hz, the time domain signals (prefix &rsquo;t&rsquo; to signify time) were collected. To reduce noise, they were filtered with a median filter and a 3rd order low pass Butterworth filter with a 20 Hz corner frequency. Using a low pass Butterworth filter with a corner frequency of 0.3 Hz, the acceleration signal was split into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ).</p>
+<p>The 3-axis signals tAcc-XYZ and tGyro-XYZ depicted in Figure 1 and 2 are the raw data from the accelerometer and gyroscope.</p>
+
+<figure >
+    
+      <img src="/media/lstm/raw_acceleration.png" alt="Image showing the raw acceleration data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 1: Plot of raw acceleration data (50Hz) within 128 readings (2.56 sec).
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/raw_gyroscope.png" alt="Image showing the raw gyroscope data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 2: Plot of raw gyroscope data (50Hz) within 128 readings (2.56 sec).
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>To reduce noise, it where filtered with a median filter, as shown in Figures 3 and 4, and a 3rd order low pass Butterworth filter with a 20 Hz corner frequency, like shown in Figures 5 and 6. In both acceleration and gyroscope data, a median filter with a filter length of 5 was employed.</p>
+
+<figure >
+    
+      <img src="/media/lstm/median_acceleration.png" alt="Image showing the median acceleration data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 3: Plot acceleration data every 128 readings (2.56 sec) with median filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/median_gyroscope.png" alt="Image showing the median gyroscope data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 4: Plot of raw gyroscope data (50Hz) every 128 readings (2.56 sec) with median filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/median_butterworth_acceleration.png" alt="Image showing the median butterworth acceleration data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 5: Plot acceleration data within 128 readings (2.56 sec) with median filter and Butterworth filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/median_butterworth_gyroscope.png" alt="Image showing the median butterworth gyroscope data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 6: Plot gyroscope data within 128 readings (2.56 sec) with median filter and Butterworth filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>Another low pass Butterworth filter with a corner frequency of 0.3 Hz was used to split the acceleration signal into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ), like shown in Figures 8 and 7. And separating acceleration signal into body and gravity acceleration signals by each window, like shown in Figure 9.</p>
+
+<figure >
+    
+      <img src="/media/lstm/separate_acceleration.png" alt="Image showing the gravity acceleration data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 7: Plot gravity acceleration data within 128 readings (2.56 sec) with median filter and Butterworth filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/separate_acceleration_body.png" alt="Image showing the body acceleration data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 8: Plot body acceleration data within 128 readings (2.56 sec) with median filter and Butterworth filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/separate_acceleration_window_gravity.png" alt="Image showing the gravity acceleration data" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 9: Plot gravity acceleration window data within 128 readings (2.56 sec) with median filter and Butterworth filter.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>To acquire Jerk signals, the body linear acceleration and angular velocity were calculated in time (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ), as shown in Figure 10 and 11.</p>
+
+<figure >
+    
+      <img src="/media/lstm/acceleration_jerk.png" alt="Image showing the acceleration Jerk signals" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 10: Plot acceleration Jerk signals.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+
+<figure >
+    
+      <img src="/media/lstm/angular_velocity_jerk.png" alt="Image showing the angular velocity Jerk signals" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 11: Plot angular velocity Jerk signals.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>Lastly a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag, as shown in Figure 12. The &lsquo;f&rsquo; is to indicate frequency domain signals.</p>
+
+<figure >
+    
+      <img src="/media/lstm/fft.png" alt="Image showing the acceleration with hamming" />
+    
+    
+    <figcaption>
+        <p>
+        Figure 12: Plot acceleration with hamming.
+        <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification"> 
+            Andreas Lien, CC0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>See <a href="https://github.com/DiFronzo/LSTM-for-Human-Activity-Recognition-classification">DiFronzo/LSTM-for-Human-Activity-Recognition-classification</a> for access to the repository with all the data.</p>
+]]></content></item><item><title>Aksel Waldemar Johannessen</title><link>https://blog.vfiles.no/posts/aksel-waldemar-johannessen/</link><pubDate>Wed, 10 Nov 2021 12:44:38 +0100</pubDate><guid>https://blog.vfiles.no/posts/aksel-waldemar-johannessen/</guid><description>&lt;p&gt;Aksel Waldemar Johannessen (1880-1922) was a Norwegian expressionist, painter, and graphic designer. In Norway he is often referred to as &amp;ldquo;the forgotten artist&amp;rdquo; and was only praised by critics after his death. Johannessens art was noticed by &lt;a href="https://en.wikipedia.org/wiki/Edvard_Munch"&gt;Edvard Munch &lt;/a&gt;and two famous art critics at the time, Dagbladet&amp;rsquo;s &lt;a href="https://en.wikipedia.org/wiki/Jappe_Nilssen"&gt;Jappe Nilssen&lt;/a&gt; and the cultural profile &lt;a href="https://en.wikipedia.org/wiki/Olav_Dalgard"&gt;Olav Dalgard&lt;/a&gt;.&lt;/p&gt;
+&lt;figure class="center"&gt;
+&lt;img src="https://blog.vfiles.no/media/Aksel_Waldemar_Johannessen.jpg" alt="Painting of Aksel Waldemar Johannessen." width="450" /&gt;
+&lt;figcaption&gt;
+&lt;p&gt;
+Self-portrait of Aksel W. Johannessen.
+&lt;a href="https://commons.wikimedia.org/wiki/File:Aksel_Waldemar_Johannessen_%28self-portrait%29.jpg"&gt;
+Public domain, CC0.
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="early-life-and-education"&gt;Early life and education&lt;/h2&gt;
+&lt;p&gt;Aksel Waldemar Johannessen was born October 26, 1880 in Christiania (today &lt;a href="https://en.wikipedia.org/wiki/Oslo"&gt;Oslo&lt;/a&gt;), Norway. He grew up at &lt;a href="https://en.wikipedia.org/wiki/Kampen,_Norway"&gt;Kampen&lt;/a&gt;, where his father, Julius Johannesen, was a shoemaker and auxiliary policeman. He was connected early to the artist community at Hammersborg behind the &lt;a href="https://en.wikipedia.org/wiki/Trinity_Church_%28Oslo%29"&gt;Trinity Church&lt;/a&gt;. In the period of 1900 and 1907, he become educated as an artist, including seven semesters at the &lt;a href="https://en.wikipedia.org/wiki/Norwegian_National_Academy_of_Craft_and_Art_Industry"&gt;Norwegian National Academy of Craft and Art Industry&lt;/a&gt;, the last years with &lt;a href="https://no.wikipedia.org/wiki/Lars_Utne"&gt;Lars Utne&lt;/a&gt; in the sculptor class. He learned the art of woodcarving in the workshop of the internationally famous &lt;a href="https://nkl.snl.no/John_Borgersen"&gt;Johan Borgersen&lt;/a&gt;.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Aksel Waldemar Johannessen (1880-1922) was a Norwegian expressionist, painter, and graphic designer. In Norway he is often referred to as &ldquo;the forgotten artist&rdquo; and was only praised by critics after his death. Johannessens art was noticed by <a href="https://en.wikipedia.org/wiki/Edvard_Munch">Edvard Munch </a>and two famous art critics at the time, Dagbladet&rsquo;s <a href="https://en.wikipedia.org/wiki/Jappe_Nilssen">Jappe Nilssen</a> and the cultural profile <a href="https://en.wikipedia.org/wiki/Olav_Dalgard">Olav Dalgard</a>.</p>
+
+<figure class="center">
+    
+      <img src="/media/Aksel_Waldemar_Johannessen.jpg" alt="Painting of Aksel Waldemar Johannessen." width="450" />
+    
+    
+    <figcaption>
+        <p>
+        Self-portrait of Aksel W. Johannessen.
+        <a href="https://commons.wikimedia.org/wiki/File:Aksel_Waldemar_Johannessen_%28self-portrait%29.jpg"> 
+            Public domain, CC0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="early-life-and-education">Early life and education</h2>
+<p>Aksel Waldemar Johannessen was born October 26, 1880 in Christiania (today <a href="https://en.wikipedia.org/wiki/Oslo">Oslo</a>), Norway. He grew up at <a href="https://en.wikipedia.org/wiki/Kampen,_Norway">Kampen</a>, where his father, Julius Johannesen, was a shoemaker and auxiliary policeman. He was connected early to the artist community at Hammersborg behind the <a href="https://en.wikipedia.org/wiki/Trinity_Church_%28Oslo%29">Trinity Church</a>. In the period of 1900 and 1907, he become educated as an artist, including seven semesters at the <a href="https://en.wikipedia.org/wiki/Norwegian_National_Academy_of_Craft_and_Art_Industry">Norwegian National Academy of Craft and Art Industry</a>, the last years with <a href="https://no.wikipedia.org/wiki/Lars_Utne">Lars Utne</a> in the sculptor class. He learned the art of woodcarving in the workshop of the internationally famous <a href="https://nkl.snl.no/John_Borgersen">Johan Borgersen</a>.</p>
+<h2 id="work-in-gjøvik">Work in Gjøvik</h2>
+<p>Johannessen married Anna Gjermine Nilsen in 1907, and their relationship resulted in two daughters. They moved to <a href="https://en.wikipedia.org/wiki/Gj%C3%B8vik">Gjøvik</a> the same year, where he worked as a cabinetmaker and woodcarver in the company Edvard Sandvold. He lived at Sandvoldgård in Welhavens street. Johannessen did not paint at this time, but he made a number of sculptures. They lived in Gjøvik until 1912.<a href="https://www.oa.no/kultur/omstridte-kunstverk/s/1-81-3089903">[1]</a></p>
+
+<figure class="center">
+    
+      <img src="/media/ETF-00740-003.jpg" alt="Photograph of the building where Johannessen lived in Gjøvik." />
+    
+    
+    <figcaption>
+        <p>
+        Sandvoldgården where Johannessen lived in Gjøvik. Image from 1979.
+        <a href="https://digitaltmuseum.no/021019672708/tordenskjoldsgate-med-sandvoldgarden-1979"> 
+            Krogstad, Morten / Mjøsmuseet, CC BY-NC 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="returning-to-kristiania">Returning to Kristiania</h2>
+<p>The couple moved back to Kristiania in 1912, he and his wife Nilsen came into close contact with the theater community and the social circle around <a href="https://en.wikipedia.org/wiki/Hulda_Garborg">Hulda</a> and <a href="https://en.wikipedia.org/wiki/Arne_Garborg">Arne Garborg</a>. The couple founded a dressmaking shop named <a href="https://no.wikipedia.org/wiki/Heimen_husflid">Heimen</a> Teiknekontor. It became a permanent sewing room for <a href="https://en.wikipedia.org/wiki/Det_Norske_Teatret">the Norwegian Theatre</a>, which was founded in 1913, and Johannessen became a stage worker for the theater. He participated in the infamous theater group after the first performance: &ldquo;Jeppe paa Berget&rdquo; by <a href="https://en.wikipedia.org/wiki/Ludvig_Holberg">Ludvig Holberg</a>. In Heimen&rsquo;s sewing room, the first interest in the <a href="https://en.wikipedia.org/wiki/Bunad">Norwegian folk costumes</a> also began to emerge, which led to the reconstruction of the Valdres costume/bunad and the Gudbrandsdal costume/bunad. Johannessen began painting in 1912, although his work as a painter remained for the most part unnoticed by those around him. Throughout his life, Johannessen seemed to distance himself from the rather bourgeois and snobbish artistic community.</p>
+
+<figure class="center">
+    
+      <img src="/media/OB.F01025.png" alt="Image of The Norwegian Theatre building back in 1915" width="490" />
+    
+    
+    <figcaption>
+        <p>
+        The Norwegian Theatre (1915).
+        <a href="https://digitaltmuseum.no/011014323613/rosenkrantz-gate-med-det-norske-teatret-i-bondenes-hus"> 
+            Væring, Ragnvald, CC BY-SA 4.0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="death">Death</h2>
+<p>At times had Johannessen alcohol problems, and from 1918 to 1921 was he in a very rough period. An attack of pleuresy in his youth had left him in delicate health. In 1922, was his wife, Nilsen, sick with incurable cancer. In sheer despair was Johannessen unable to control his alcohol consumption. He was found in the gutter of an alley, driven to <a href="https://en.wikipedia.org/wiki/Oslo_University_Hospital,_Ullev%C3%A5l">Ullevål University Hospital</a>, where the terminally ill Nilsen was sitting next to him when he died of pneumonia at the age of 42 on October 25, 1922.</p>
+<p>At the time of Johannessen&rsquo;s death, his wife Nilsen had only four months left to live. During this brief space of time, his wife set about to tidy up both her own life and that of her husband. Assisted by Hulda Garborg, she saw to it that her two daughters were well taken care of, and she sold the company &ldquo;Heimen&rdquo; to <a href="https://no.wikipedia.org/wiki/Bondeungdomslaget_i_Oslo">Bondeungdomslaget</a> (the Society of Farm Youth) in 1923 for a purchase sums of about NOK 25,000, which at that time corresponded to 12-13 annual salaries.[<a href="https://www.heimenhusfliden.no/1912-historia-om-heimen-husflid/">2</a>] She also contacted the artist <a href="https://no.wikipedia.org/wiki/Ola_Abrahamsson">Ola Abrahamsson</a>, showing him the ninety works that Aksel Waldemar had painted, without making this known to anyone.</p>
+<h2 id="memorial-exhibition">Memorial exhibition</h2>
+<p>The painter Ola Abrahamsson made sure that the about 90 leftover canvases of partly large format were shown at a memorial exhibition at <a href="https://no.wikipedia.org/wiki/Blomqvist_Kunsthandel">Blomqvist</a> in January 17, 1923.</p>
+<p>The exhibition of these works of art created an overwhelming response with magnificent reviews, although a number of people did not comprehend the direct, realistic messages of his art. Jappe Nilssen, Norway&rsquo;s foremost art critic of the time, the man first to recognize the talent of Edvard Munch and later to become his close friend, wrote what was probably the most positive review of his entire career: &ldquo;&hellip; I can hardly recall having seen anything like this ever before in Nordic art.&rdquo;</p>
+<p>Munch was also full of enthusiasm: &ldquo;this is something of the most extraordinary that I have ever seen&rdquo;, and &ldquo;finer works are not being painted to-day&rdquo;. The sculptor Gustav Vigeland sent the widow some money. People were astonished to learn that Johannessen only gained prominence after his death. Myths were created about poverty, need, hunger and death in solitude, an echo from the Bohemian period of the 1880s. Johannessen&rsquo;s canvasses were then subsequently packed and stored, and then went into total oblivion.</p>
+<p>Thematically, the pictures are very ambitious, and range from the grotesque to the idyllic; from depictions of sexuality, violence, prostitution, alcoholism and war to idyllic and intimate works.</p>
+
+<figure class="center">
+    
+      <img src="/media/Blomqvist_1923.png" alt="Portrait of Maria Ressa in 2011" />
+    
+    
+    <figcaption>
+        <p>
+        From the memorial exhibition at Blomqvist in January 17, 1923.
+        
+            Photo: Unknown author, CC0 according to §23 in the Norwegian Åndsverkloven.
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="legecy">Legecy</h2>
+<p>The exhibition held 1923 in Blomqvist Gallery was reconstructed in the same gallery in 1992 with great success. The following year, 1993, the same exhibition was shown in the art museums of <a href="https://en.wikipedia.org/wiki/Stavanger">Stavanger</a>, <a href="https://en.wikipedia.org/wiki/Skien">Skien</a>, and <a href="https://en.wikipedia.org/wiki/Bergen">Bergen</a>. During these exhibitions, several foreign museums and galleries also discovered the artist and paid great interest to Johannessen. Under the supervision of the renowned art historian Professor <a href="https://de.wikipedia.org/wiki/Erich_Steingr%C3%A4ber">Dr. Erich Steingräber</a>, General Director of the <a href="https://en.wikipedia.org/wiki/Bavarian_State_Painting_Collections">Bayerische Staatsgemäldesammlung</a> in <a href="https://en.wikipedia.org/wiki/Munich">Munich</a> (Pinakothek) and honorable professor at <a href="https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich">Munich University</a>, new exhibitions were arranged 1994 in <a href="https://en.wikipedia.org/wiki/Palazzo_del_Te">Palazzo Te in Mantua</a> and in the Doge Palace in <a href="https://en.wikipedia.org/wiki/Venice">Venice</a>, and later in <a href="https://en.wikipedia.org/wiki/Maretsch_Castle">Castle Maretsch</a>, Bolzano South Tirol. In 1995 exhibitions followed in <a href="https://www.upperaustria.com/en/oesterreich-poi/detail/400364/lamberg-castle.html">Castle Lamberg</a>, Steyr (Austria) and then finally in 1996 in Berlin.</p>
+<p>International museums and institutions have acquired paintings by Johannessen, amongst them the famous collector and museum-founder <a href="https://en.wikipedia.org/wiki/Rudolf_Leopold">Prof. Dr. Rudolf Leopold</a> in Vienna.</p>
+<p>
+
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+
+<style>
+#slide-window {
+    display: block;
+    position: relative;
+    height: 1400px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    height: 1400px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    height: 1400px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/waldemar/1.jpg);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/waldemar/2.jpg);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/waldemar/3.jpg);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/waldemar/4.jpg);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/waldemar/5.jpg);">
+                </li>
+                <li class="slide" style="background-image:url(https://blog.vfiles.no/media/waldemar/6.jpg);">
+                </li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script>
+
+Public domain, CC0.</p>
+<!--- In his 1992 book, Aksel Waldemar Johannessen, V�r glemte maler (Aksel Waldemar Johannessen, Our Forgotten Painter), Haakon Mehren, by rediscovering this exceptional artist, presents us with a new and revealing trend in Norwegian social criticism represented in art: from Christian Krohg, the naturalist and critic of the bourgeoisie, via the esthete Edvard Munch, to the realist Aksel Waldemar Johannessen, there is a clear trend that leads to the modernist Arne Ekeland. Similarly, Mehren demonstrates the important line in Norwegian-German art from Johan Christian Clausen Dahl and Caspar David Friedrich - via the Norwegian naturalists in Munich and Wilhelm Leibl, leading to Munch, the Berlin session in 1892, and expressionism. German philosophy, Ibsen, Garborg, Hamsun, Bj�rnson and the satirical magazine Simplicissimus all form part of this picture. Mehren shows the pioneering work in the figurative language of Norway�s first proletarian artist, and he shows us how Aksel Waldemar anticipates the German art of "Neue Sachlichkeit" in 1925. (althrough Aksel Waldemar had never ventured out of Norway)
+Tor Obrestad, the Norwegian writer and poet, has discovered a great deal of written material on Aksel Waldemar Johannessen in Hulda Garborg�s diaries from 1912 to 1923, and he analyzes the literary climate of that period. He also offers a strong personal declaration of love for the artist.
+Prof. Dr. �ivind Storm Bjerke, former head curator at H�vikodden Art Centre (Sonja Henie-Onstad Foundation), now professor at the University of Oslo, analyzes the various pictures and gives a survey of Norwegian art and a critique of artistic activity at the time of Aksel Waldemar Johannessen. He demonstrates that his art forms an autobiographical cycle, a cycle that ends with the paintings Fredl�se (Outlaws) and Korsfestelsen (The Crucifixion).
+Prof. Dr. Sybille-Karin Moser at the University of Innsbruck, herself an art historian and painter, who has a close relation to the great art theoretician of our time, Sir Ernst Gombrich, places Aksel Waldemar in an art philosophical context. She refers, among other things, to the 86-year-old Marie Louise von Matosiczky, the last expressionist alive from the same period as Aksel Waldemar, who is represented with two paintings in the Tate Gallery. In a conversation with Dr. Moser, she talks of her paintings from the 1920s, they discuss Aksel Waldemar and contemporary artists with whom she worked, amongst them Max Beckmann.
+Prof. Dr. Moser presents the rediscovery of Aksel Waldemar Johannessen�s lifework as a great event in European art history. She is critical of various phenomena in German expressionism and in modern art. She tries to give an answer to the exact "nature"of proper Art, and in doing so, draws on philosophers such as Hans Belting and R. C. Collingwwod.
+
+The exhibition held 1923 in Blomqvist Gallery was reconstructed in the same gallery in 1992 with great success. The following year, 1993, the same exhibition was shown in the art museums of Stavanger, Skien and Bergen. During these exhibitions, several foreign museums and galleries also discovered the artist and paid great interest to him. Under the supervision of the renowned art historian Professor Dr. Erich Steingr�ber, General Director of the Bayerische Staatsgem�ldesammlung in Munich (Pinakothek) and honorable professor at Munich University, new exhibitions were arranged 1994 in Palazzo Te in Mantua and in the Doge Palace in Venice, and later in Castle Maretsch, Bolzano South Tirol. In 1995 exhibitions followed in Castle Lamberg, Steyr (Austria) and then finally in 1996 in Berlin.
+Some 100.000 people visited the exhibitions and learned about Aksel Waldemar Johannessen and his work. Hundreds of articles were published in newspapers and magazines around Europe. Since Edvard Munch, no other Norwegian artist had achieved greater success abroad. The catalogue on the artist and the exhibition was published by Electa in Italian, German and English (editor: Prof. Dr. Erich Steingr�ber. Aksel Waldemar Johannessen. Images of a Nordic Drama. Immagini di un dramma nordico. Bilder eines Nordischen Dramas. Electa, Milano 1994. Elemont editori associata).
+International museums and institutions have acquired paintings by Aksel Waldemar Johannessen, amongst them the famous collector and museum-founder Prof. Dr. Rudolf Leopold in Vienna. At this moment, discussions are underway to make his work available to the public in a major institution. --->
+]]></content></item><item><title>Greta Thunberg; a Future Martyr</title><link>https://blog.vfiles.no/posts/greta-thunberg-a-future-martyr/</link><pubDate>Mon, 08 Nov 2021 10:03:06 +0100</pubDate><guid>https://blog.vfiles.no/posts/greta-thunberg-a-future-martyr/</guid><description>&lt;p&gt;Starting Sunday (October 31, 2021), climate negotiators from nearly every country will gather for two weeks in &lt;a href="https://en.wikipedia.org/wiki/Glasgow"&gt;Glasgow&lt;/a&gt;, Scotland, United Kingdom to hammer out a new agreement aimed at cutting emissions to a level scientists hope will limit global warming, also known as United Nations Climate Change Conference (&lt;a href="https://en.wikipedia.org/wiki/2021_United_Nations_Climate_Change_Conference"&gt;COP26&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Elizabeth_II"&gt;Queen Elizabeth&lt;/a&gt; was supposed to open it all, but canceled due to illness. &lt;a href="https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cambridge"&gt;William&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/wiki/Catherine,_Duchess_of_Cambridge"&gt;Kate&lt;/a&gt; and &lt;a href="https://en.wikipedia.org/wiki/Charles,_Prince_of_Wales"&gt;Charles&lt;/a&gt;, on the other hand, they arrived. And &lt;a href="https://en.wikipedia.org/wiki/Barack_Obama"&gt;Barack Obama&lt;/a&gt;. As well as the world&amp;rsquo;s richest men, like &lt;a href="https://en.wikipedia.org/wiki/Jeff_Bezos"&gt;Jeff Bezos&lt;/a&gt; and &lt;a href="https://en.wikipedia.org/wiki/Bill_Gates"&gt;Bill Gates&lt;/a&gt;.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Starting Sunday (October 31, 2021), climate negotiators from nearly every country will gather for two weeks in <a href="https://en.wikipedia.org/wiki/Glasgow">Glasgow</a>, Scotland, United Kingdom to hammer out a new agreement aimed at cutting emissions to a level scientists hope will limit global warming, also known as United Nations Climate Change Conference (<a href="https://en.wikipedia.org/wiki/2021_United_Nations_Climate_Change_Conference">COP26</a>).</p>
+<p><a href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen Elizabeth</a> was supposed to open it all, but canceled due to illness. <a href="https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cambridge">William</a>, <a href="https://en.wikipedia.org/wiki/Catherine,_Duchess_of_Cambridge">Kate</a> and <a href="https://en.wikipedia.org/wiki/Charles,_Prince_of_Wales">Charles</a>, on the other hand, they arrived. And <a href="https://en.wikipedia.org/wiki/Barack_Obama">Barack Obama</a>. As well as the world&rsquo;s richest men, like <a href="https://en.wikipedia.org/wiki/Jeff_Bezos">Jeff Bezos</a> and <a href="https://en.wikipedia.org/wiki/Bill_Gates">Bill Gates</a>.</p>
+<p>&hellip;and <a href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg</a> then. But she is at COP26 to protest.</p>
+
+<figure class="center">
+    
+      <img src="/media/Greta_Thunberg.jpg" alt="Image of Greta Thunberg in March 4, 2020." />
+    
+    
+    <figcaption>
+        <p>
+        Climate activist Greta Thunberg discussed EU plans to tackle the climate emergency with Parliament’s environment committee on March 4, 2020.
+        <a href="https://flickr.com/photos/36612355@N08/49618310531"> 
+            © European Union 2020, CC BY 4.0.
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>In 2015, at <a href="https://en.wikipedia.org/wiki/2015_United_Nations_Climate_Change_Conference">COP21</a> in <a href="https://en.wikipedia.org/wiki/Paris">Paris</a>, 197 parties agreed to establish a legal instrument that would govern climate change mitigation and adaptation efforts. This became known as the <a href="https://en.wikipedia.org/wiki/Paris_Agreement">Paris Agreement</a>. It includes overarching goals to keep global temperature rise below 2° C, with efforts to limit warming to 1.5 °C, and increase countries’ resilience to climate impacts. It also aims to ensure sufficient financing to achieve these targets. Like with most politic you only need to make an <em>effort</em>. I belive there should have been set a more strict goal.</p>
+<p>So, do I agree with everything Thunberg is talking about? No, not everything. But Thunberg has some important points we should not throw under the couch. She is criticising the goals for cutting emissions which cause global warming, <a href="https://www.bbc.com/news/world-europe-49918719">saying</a>: &ldquo;We don&rsquo;t just need goals for just 2030 or 2050. We, above all, need them for 2020 and every following month and year to come&rdquo;. Great! Now what action should be taken? That is a hard question to answer. Even Thunberg has avoided getting into the detail about that.</p>
+<blockquote>
+<p>“We can no longer let the people in power decide what is politically possible. We can no longer let the people in power decide what hope is. Hope is not passive. Hope is not blah, blah, blah. Hope is telling the truth. Hope is taking action. And hope always comes from the people.” <a href="https://www.theguardian.com/environment/2021/sep/28/blah-greta-thunberg-leaders-climate-crisis-co2-emissions">said</a> Greta Thunberg</p>
+</blockquote>
+<p>It remains to be seen how well the aims for COP26 will end up being addressed and if the effects of the conference will be stark enough to convince critics.</p>
+]]></content></item><item><title>Scandinavias Biggest Rapper – Einár</title><link>https://blog.vfiles.no/posts/scandinavias-biggest-rapper-einar/</link><pubDate>Sun, 24 Oct 2021 13:16:37 +0200</pubDate><guid>https://blog.vfiles.no/posts/scandinavias-biggest-rapper-einar/</guid><description>&lt;p&gt;Nils Erik Einar Grönberg AKA. &lt;strong&gt;Einár&lt;/strong&gt; was a Swedish rapper. The 19 year old rap sensation was shot to death late Thursday night October 21, 2021. Einàr was the most played artist on &lt;a href="https://en.wikipedia.org/wiki/Spotify"&gt;Spotify&lt;/a&gt; in Sweden 2019. I discovered his music in the early 2019 with the track &lt;a href="https://sv.wikipedia.org/wiki/Katten_i_trakten"&gt;&amp;ldquo;Katten i trakten&amp;rdquo;&lt;/a&gt; on repeat. The track was on his debut album &lt;a href="https://sv.wikipedia.org/wiki/F%C3%B6rsta_klass_%28musikalbum%29"&gt;&lt;em&gt;Forsta klass&lt;/em&gt;&lt;/a&gt; that topped the Swedish charts in 2019, without the need of any &lt;a href="https://en.wikipedia.org/wiki/Record_label#Major_labels"&gt;(major) record labels&lt;/a&gt; help.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Nils Erik Einar Grönberg AKA. <strong>Einár</strong> was a Swedish rapper. The 19 year old rap sensation was shot to death late Thursday night October 21, 2021. Einàr was the most played artist on <a href="https://en.wikipedia.org/wiki/Spotify">Spotify</a> in Sweden 2019. I discovered his music in the early 2019 with the track <a href="https://sv.wikipedia.org/wiki/Katten_i_trakten">&ldquo;Katten i trakten&rdquo;</a> on repeat. The track was on his debut album <a href="https://sv.wikipedia.org/wiki/F%C3%B6rsta_klass_%28musikalbum%29"><em>Forsta klass</em></a> that topped the Swedish charts in 2019, without the need of any <a href="https://en.wikipedia.org/wiki/Record_label#Major_labels">(major) record labels</a> help.</p>
+
+<figure class="center">
+    
+      <img src="/media/Einar.jpg" alt="Image of Einàr in 2020." />
+    
+    
+    <figcaption>
+        <p>
+        Press image of Einàr in 2020.
+        <a href="https://web.archive.org/web/20220615123615/https://www.mynewsdesk.com/se/sonybmg/images/einar-pressbild-1922227"> 
+            Pontus Esse Carmback, CC BY 3.0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<blockquote>
+<p>&ldquo;It is a young life that has been extinguished, and I understand that he has meant a lot to many young people,&rdquo; <a href="https://www.tv4.se/klipp/va/13723095/stefan-lofven-om-mordet-pa-einar-tragiskt-att-annu-ett-liv-slackts">said</a> Swedish Prime Minister <a href="https://en.wikipedia.org/wiki/Stefan_L%C3%B6fven">Stefan Löfven</a>.</p>
+</blockquote>
+<p>Einár&rsquo;s death sent a shock wave in <a href="https://en.wikipedia.org/wiki/Scandinavia">Scandinavia</a> and once again has the discussion regarding violence and gang-related activity within the hip hop community emerged. Many of Einár’s songs reference a life of crime, including drugs and weapons. Sweden has seen a rise in organised crime activity in recent years and several shootings have occurred in Stockholm, Göteborg, and Malmö.</p>
+<p>Sweden&rsquo;s Minister for Gender Equality and Housing <a href="https://en.wikipedia.org/wiki/M%C3%A4rta_Stenevi">Märta Stenevi</a> twitted that &ldquo;violence must be stopped&rdquo;.</p>
+<blockquote class="twitter-tweet"><p lang="sv" dir="ltr">Ännu en ung människa har fallit offer för det dödliga våldet. Bakom varje rubrik finns en familj som förlorat ett barn. Jag tänker idag på alla dessa som förlorat en anhörig. Våldet måste stoppas.<a href="https://t.co/aqFnalxon5">https://t.co/aqFnalxon5</a></p>&mdash; Märta Stenevi (@martastenevi) <a href="https://twitter.com/martastenevi/status/1451441326625599510?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>The motive of the shooting remains unclear but the <a href="https://polisen.se/aktuellt/handelser/2021/oktober/21/21-oktober-2250-morddrap-stockholm/">police</a> have not ruled out that the incident could be gang-related.</p>
+<p><strong>RIP Einàr you&rsquo;ll always be remembered for your music and description of the contemporary criminal scene in Stockholm ❤</strong></p>
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO080TLU?theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+]]></content></item><item><title>Apple ∑Mn</title><link>https://blog.vfiles.no/posts/apple-m-1-2-3-4-5/</link><pubDate>Thu, 21 Oct 2021 14:01:42 +0200</pubDate><guid>https://blog.vfiles.no/posts/apple-m-1-2-3-4-5/</guid><description>&lt;p&gt;Its October! That is also a synonym for a new &lt;a href="https://en.wikipedia.org/wiki/List_of_Apple_Inc._media_events#Apple_Event_%28October_18,_2021%29"&gt;Apple event&lt;/a&gt;, well it is actually either October or September if I have to be precise. This October was my attention wrapped around the new &lt;a href="https://en.wikipedia.org/wiki/System_on_a_chip"&gt;SoCs&lt;/a&gt; in Apple Silicons line-up, to be more precise the upgrade of Apple&amp;rsquo;s 2020 &lt;a href="https://en.wikipedia.org/wiki/Apple_M1"&gt;M1&lt;/a&gt; chip, &lt;a href="https://en.wikipedia.org/wiki/Apple_M1_Pro"&gt;Apple M1 Pro&lt;/a&gt; and &lt;a href="https://en.wikipedia.org/wiki/Apple_M1_Max"&gt;Apple M1 Max&lt;/a&gt;. Where Apple continues to make the naming conventions more confusing with direct connection to the names of &lt;a href="https://en.wikipedia.org/wiki/IPhone"&gt;iPhones&lt;/a&gt; models. So, to break it down for ordinary people &lt;code&gt;Pro&lt;/code&gt; is like iPhone 13 Pro and &lt;code&gt;Max&lt;/code&gt; is like iPhone 13 Pro Max but without the Pro part. It&amp;rsquo;s super easy to understand, right? Well its a bit more intricate than that. Apple has showed with the M1 chip that the transition over from &lt;a href="https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture"&gt;Intel-based x86&lt;/a&gt; CPUs to the own in-house designed microprocessors running on the &lt;a href="https://en.wikipedia.org/wiki/AArch64#ARMv8.4-A"&gt;Arm&lt;/a&gt; instruction set don&amp;rsquo;t need to be so problematic, do you &lt;a href="https://www.theverge.com/2020/6/10/21285866/mac-arm-processors-windows-lessons-transition-coexist"&gt;follow Microsoft&lt;/a&gt;? Apple M1 wasn&amp;rsquo;t that groundbreaking in terms of performance, but more of a unexpectedly good transition to Arm.&lt;/p&gt;</description><content type="html"><![CDATA[<p>Its October! That is also a synonym for a new <a href="https://en.wikipedia.org/wiki/List_of_Apple_Inc._media_events#Apple_Event_%28October_18,_2021%29">Apple event</a>, well it is actually either October or September if I have to be precise. This October was my attention wrapped around the new <a href="https://en.wikipedia.org/wiki/System_on_a_chip">SoCs</a> in Apple Silicons line-up, to be more precise the upgrade of Apple&rsquo;s 2020 <a href="https://en.wikipedia.org/wiki/Apple_M1">M1</a> chip, <a href="https://en.wikipedia.org/wiki/Apple_M1_Pro">Apple M1 Pro</a> and <a href="https://en.wikipedia.org/wiki/Apple_M1_Max">Apple M1 Max</a>. Where Apple continues to make the naming conventions more confusing with direct connection to the names of <a href="https://en.wikipedia.org/wiki/IPhone">iPhones</a> models. So, to break it down for ordinary people <code>Pro</code> is like iPhone 13 Pro and <code>Max</code> is like iPhone 13 Pro Max but without the Pro part. It&rsquo;s super easy to understand, right? Well its a bit more intricate than that. Apple has showed with the M1 chip that the transition over from <a href="https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture">Intel-based x86</a> CPUs to the own in-house designed microprocessors running on the <a href="https://en.wikipedia.org/wiki/AArch64#ARMv8.4-A">Arm</a> instruction set don&rsquo;t need to be so problematic, do you <a href="https://www.theverge.com/2020/6/10/21285866/mac-arm-processors-windows-lessons-transition-coexist">follow Microsoft</a>? Apple M1 wasn&rsquo;t that groundbreaking in terms of performance, but more of a unexpectedly good transition to Arm.</p>
+
+<figure class="center">
+    
+      <img src="/media/Apple_M1.jpg" alt="Illustration of Apple M1" width="420" />
+    
+    
+    <figcaption>
+        <p>
+        Illustration of Apple&rsquo;s M1 processor.
+        <a href="https://commons.wikimedia.org/wiki/File:Apple_M1.jpg"> 
+            Henriok, CC0 1.0
+        </a> 
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>The two new chips look to change that situation, with Apple going all-out for performance, with more CPU cores, more GPU cores, much more silicon investment, and Apple now also increasing their power budget far past anything they’ve ever done in the smartphone or tablet space.</p>
+<h3 id="the-m1-pro-the-middle-child">The M1 Pro: The Middle Child</h3>
+<p>The first of the two chips which were announced was M1 Pro – laying the ground-work for what Apple calls no-compromise laptop SoCs.</p>
+<p>The company divulges that they’ve doubled up on the memory bus for the M1 Pro compared to the M1, moving from a 128-bit LPDDR4X interface to a new much wider and faster 256-bit LPDDR5 interface, promising system bandwidth of up to 200GB/s. That is most likely a rounded number, for an LPDDR5-6400 interface of that width would achieve 204.8GB/s.</p>
+<h3 id="the-m1-max-the-big-brother">The M1 Max: The Big Brother</h3>
+<p>Alongside the M1 Pro, Apple also announced a bigger brother – the M1 Max. While the M1 Pro catches up and outpaces the laptop competition in terms of performance, the M1 Max is aiming at delivering supercharging the GPU to a total of 32 cores. Essentially it’s no longer an SoC with an integrated <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU</a>, rather it’s a GPU with an SoC around it.</p>
+<p>The packaging for the M1 Max changes slightly in that it’s bigger – the most obvious change is the increase of <a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">DRAM</a> chips from 2 to 4, which also corresponds to the increase in memory interface width from 256-bit to 512-bit. Apple is also advertising a massive 400GB/s of bandwidth, which if it’s LPDDR5-6400, would possibly be more exact 409.6GB/s. This kind of bandwidth is unheard of in an SoC, but quite the norm in very high-end GPUs.</p>
+]]></content></item><item><title>Machine Learning with Wikidata</title><link>https://blog.vfiles.no/posts/machine-learning-with-wikidata/</link><pubDate>Fri, 08 Oct 2021 16:48:41 +0200</pubDate><guid>https://blog.vfiles.no/posts/machine-learning-with-wikidata/</guid><description>&lt;p&gt;This tutorial will be dedicated to understanding how to use the linear
+regression algorithm with Wikidata to make predictions. For a detailed
+explanation of how this algorithm works please read the
+&lt;a href="https://en.wikipedia.org/wiki/Wikipedia"&gt;Wikipedia&lt;/a&gt; article:
+&lt;a href="https://en.wikipedia.org/wiki/Linear_regression"&gt;linear regression&lt;/a&gt;. In this
+walkthrough
+&lt;a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29"&gt;Python&lt;/a&gt; is used.&lt;/p&gt;
+&lt;h3 id="importing-modulespackages"&gt;Importing Modules/Packages&lt;/h3&gt;
+&lt;p&gt;Before we start coding, import/install all of the following packages:
+&lt;a href="https://pypi.org/project/numpy/"&gt;NumPy&lt;/a&gt;,
+&lt;a href="https://pypi.org/project/pandas/"&gt;Pandas&lt;/a&gt;, and
+&lt;a href="https://pypi.org/project/scikit-learn/"&gt;Sklearn&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# -*- coding: utf-8 -*-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; json
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; numpy &lt;span style="color:#66d9ef"&gt;as&lt;/span&gt; np
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; pandas &lt;span style="color:#66d9ef"&gt;as&lt;/span&gt; pd
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;import&lt;/span&gt; sklearn
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;from&lt;/span&gt; collections &lt;span style="color:#f92672"&gt;import&lt;/span&gt; defaultdict
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;from&lt;/span&gt; sklearn &lt;span style="color:#f92672"&gt;import&lt;/span&gt; linear_model
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="loading-in-our-data"&gt;Loading in Our Data&lt;/h3&gt;
+&lt;p&gt;Now it&amp;rsquo;s time for some data collection from Wikidata. For this example we are
+using the yearly (average) population stacked by country in a query (linked
+further down). This gives us a lot of interesting values and some with faults,
+unfortunately. I have chosen to filter this query to only include values from
+2005 and newer. How you choose to import the query into the script is your
+decision. A passibility is to
+&lt;a href="https://www.wikidata.org/wiki/Wikidata:Pywikibot_-_Python_3_Tutorial/Iterate_over_a_SPARQL_query"&gt;iterate over a SPARQL query&lt;/a&gt;
+by downloading the &lt;code&gt;.rq&lt;/code&gt; file or just download a
+&lt;a href="https://en.wikipedia.org/wiki/JSON"&gt;JSON&lt;/a&gt; file of the result from the
+&lt;a href="https://query.wikidata.org"&gt;query.wikidata.org&lt;/a&gt; site. Once you&amp;rsquo;ve downloaded
+the data set and placed it into your main directory (of the Python code) you
+will first need to clean the data, and later load it in using the pandas module.&lt;/p&gt;</description><content type="html"><![CDATA[<p>This tutorial will be dedicated to understanding how to use the linear
+regression algorithm with Wikidata to make predictions. For a detailed
+explanation of how this algorithm works please read the
+<a href="https://en.wikipedia.org/wiki/Wikipedia">Wikipedia</a> article:
+<a href="https://en.wikipedia.org/wiki/Linear_regression">linear regression</a>. In this
+walkthrough
+<a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29">Python</a> is used.</p>
+<h3 id="importing-modulespackages">Importing Modules/Packages</h3>
+<p>Before we start coding, import/install all of the following packages:
+<a href="https://pypi.org/project/numpy/">NumPy</a>,
+<a href="https://pypi.org/project/pandas/">Pandas</a>, and
+<a href="https://pypi.org/project/scikit-learn/">Sklearn</a>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># -*- coding: utf-8  -*-</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> json
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> numpy <span style="color:#66d9ef">as</span> np
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> pandas <span style="color:#66d9ef">as</span> pd
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> sklearn
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> collections <span style="color:#f92672">import</span> defaultdict
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> sklearn <span style="color:#f92672">import</span> linear_model
+</span></span></code></pre></div><h3 id="loading-in-our-data">Loading in Our Data</h3>
+<p>Now it&rsquo;s time for some data collection from Wikidata. For this example we are
+using the yearly (average) population stacked by country in a query (linked
+further down). This gives us a lot of interesting values and some with faults,
+unfortunately. I have chosen to filter this query to only include values from
+2005 and newer. How you choose to import the query into the script is your
+decision. A passibility is to
+<a href="https://www.wikidata.org/wiki/Wikidata:Pywikibot_-_Python_3_Tutorial/Iterate_over_a_SPARQL_query">iterate over a SPARQL query</a>
+by downloading the <code>.rq</code> file or just download a
+<a href="https://en.wikipedia.org/wiki/JSON">JSON</a> file of the result from the
+<a href="https://query.wikidata.org">query.wikidata.org</a> site. Once you&rsquo;ve downloaded
+the data set and placed it into your main directory (of the Python code) you
+will first need to clean the data, and later load it in using the pandas module.</p>
+<h4 id="yearly-population-stacked-by-country">Yearly Population stacked by country</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-SPARQL" data-lang="SPARQL"><span style="display:flex;"><span><span style="color:#75715e"># male/female population _must_ not be added unqualified as total population (!)</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># this is an error and should be fixed at the item using P1540 and P1539 instead</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># (wrong query result may be a manifestation of such)</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">SELECT</span> ?year (<span style="color:#a6e22e">AVG</span>(?pop) <span style="color:#66d9ef">AS</span> ?population) ?countryLabel
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">WHERE</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  ?country wdt:<span style="color:#f92672">P31</span> wd:<span style="color:#f92672">Q6256</span>;
+</span></span><span style="display:flex;"><span>           p:<span style="color:#f92672">P1082</span> ?popStatement .
+</span></span><span style="display:flex;"><span>  ?popStatement ps:<span style="color:#f92672">P1082</span> ?pop;
+</span></span><span style="display:flex;"><span>                pq:<span style="color:#f92672">P585</span> ?date .
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">BIND</span>(<span style="color:#a6e22e">STR</span>(<span style="color:#a6e22e">YEAR</span>(?date)) <span style="color:#66d9ef">AS</span> ?year)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># IF multiple ?pop values per country per year exist, we prioritize by source</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#       census 1st, others 2nd, estimation(s) 3rd, unknown sources (none supplies P459) last</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># note: wikibase:rank won&#39;t help here: each year may have multiple statements for ?pop value</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#       rank:prefered is used for the best value (or values) of the latest or current year</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#       rank:normal may be justified for all of multiple ?pop values for a given year</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">OPTIONAL</span> { ?popStatement pq:<span style="color:#f92672">P459</span> ?method. }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">OPTIONAL</span> { ?country p:<span style="color:#f92672">P1082</span> [ pq:<span style="color:#f92672">P585</span> ?d; pq:<span style="color:#f92672">P459</span> ?estimate ].
+</span></span><span style="display:flex;"><span>             <span style="color:#66d9ef">FILTER</span>(<span style="color:#a6e22e">STR</span>(<span style="color:#a6e22e">YEAR</span>(?d)) <span style="color:#f92672">=</span> ?year). <span style="color:#66d9ef">FILTER</span>(?estimate <span style="color:#f92672">=</span> wd:<span style="color:#f92672">Q791801</span>). }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">OPTIONAL</span> { ?country p:<span style="color:#f92672">P1082</span> [ pq:<span style="color:#f92672">P585</span> ?e; pq:<span style="color:#f92672">P459</span> ?census ].
+</span></span><span style="display:flex;"><span>             <span style="color:#66d9ef">FILTER</span>(<span style="color:#a6e22e">STR</span>(<span style="color:#a6e22e">YEAR</span>(?e)) <span style="color:#f92672">=</span> ?year). <span style="color:#66d9ef">FILTER</span>(?census <span style="color:#f92672">=</span> wd:<span style="color:#f92672">Q39825</span>). }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">OPTIONAL</span> { ?country p:<span style="color:#f92672">P1082</span> [ pq:<span style="color:#f92672">P585</span> ?f; pq:<span style="color:#f92672">P459</span> ?other ].
+</span></span><span style="display:flex;"><span>             <span style="color:#66d9ef">FILTER</span>(<span style="color:#a6e22e">STR</span>(<span style="color:#a6e22e">YEAR</span>(?f)) <span style="color:#f92672">=</span> ?year). <span style="color:#66d9ef">FILTER</span>(?other <span style="color:#f92672">!=</span> wd:<span style="color:#f92672">Q39825</span> <span style="color:#f92672">&amp;&amp;</span> ?other <span style="color:#f92672">!=</span> wd:<span style="color:#f92672">Q791801</span>). }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">BIND</span>(<span style="color:#a6e22e">COALESCE</span>(
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">IF</span>(<span style="color:#a6e22e">BOUND</span>(?census), ?census, <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span><span style="color:#ae81ff">0</span>),
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">IF</span>(<span style="color:#a6e22e">BOUND</span>(?other), ?other, <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span><span style="color:#ae81ff">0</span>),
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">IF</span>(<span style="color:#a6e22e">BOUND</span>(?estimate), ?estimate, <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span><span style="color:#ae81ff">0</span>) ) <span style="color:#66d9ef">AS</span> ?pref_method).
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">FILTER</span>(<span style="color:#a6e22e">IF</span>(<span style="color:#a6e22e">BOUND</span>(?pref_method),?method <span style="color:#f92672">=</span> ?pref_method,<span style="color:#66d9ef">true</span>))
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># .. still need to group if multiple values per country per year exist and</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># - none is qualified with P459</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># - multiple ?estimate or multiple ?census (&gt;1 value from same source)</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e"># - ?other yields more than one source (&gt;1 values are better than optionally</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#                         supplied estimate, but no census source available)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">SERVICE</span> wikibase:<span style="color:#f92672">label</span> { bd:<span style="color:#f92672">serviceParam</span> wikibase:<span style="color:#f92672">language</span> <span style="color:#e6db74">&#34;[AUTO_LANGUAGE],en&#34;</span> }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">FILTER</span>(?year <span style="color:#f92672">&gt;=</span> <span style="color:#e6db74">&#34;2005&#34;</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">GROUP BY</span> ?year ?countryLabel
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">ORDER BY</span> ?year ?countryLabel
+</span></span></code></pre></div><p>Query found on
+<a href="https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples/advanced#Yearly_Population_stacked_by_country">Wikidata:SPARQL query service/queries/examples/advanced</a>
+(shout-out to the person who made it, saved me a lot of time).
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/0f/Yearly_Population_stacked_by_country_%28Wikidata%29.svg">Click here for full size image</a>
+(<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>).</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yearly_Population_stacked_by_country_%28Wikidata%29.svg/1000px-Yearly_Population_stacked_by_country_%28Wikidata%29.svg.png?sanitize=true" alt="Visualisation of the SPARQL query"></p>
+<p>Now that we have cleaned the data and selected the interesting part of the query
+(country, year and population). We need to import the data into <code>pandas</code>. We
+also need, in this example, to flip the table (switch the place of column and
+row).</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>YEARS <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;2007&#34;</span>, <span style="color:#e6db74">&#34;2008&#34;</span>, <span style="color:#e6db74">&#34;2009&#34;</span> ,<span style="color:#e6db74">&#34;2010&#34;</span>, <span style="color:#e6db74">&#34;2011&#34;</span>, <span style="color:#e6db74">&#34;2012&#34;</span>, <span style="color:#e6db74">&#34;2013&#34;</span>] <span style="color:#75715e"># Years we are interested in</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">getList</span>(dict): <span style="color:#75715e"># To get keys for the dict.</span>
+</span></span><span style="display:flex;"><span>    list <span style="color:#f92672">=</span> []
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> key <span style="color:#f92672">in</span> dict<span style="color:#f92672">.</span>keys():
+</span></span><span style="display:flex;"><span>        list<span style="color:#f92672">.</span>append(key)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> list
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">with</span> open(<span style="color:#e6db74">&#39;query.json&#39;</span>, <span style="color:#e6db74">&#39;r&#39;</span>) <span style="color:#66d9ef">as</span> f: <span style="color:#75715e"># Downloaded query in a JSON file.</span>
+</span></span><span style="display:flex;"><span>    distros_dict <span style="color:#f92672">=</span> json<span style="color:#f92672">.</span>load(f)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>allEntries <span style="color:#f92672">=</span> defaultdict(dict) <span style="color:#75715e"># saves all the countries in the query with its data</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> entry <span style="color:#f92672">in</span> distros_dict:
+</span></span><span style="display:flex;"><span>    allEntries[entry[<span style="color:#e6db74">&#39;countryLabel&#39;</span>]]<span style="color:#f92672">.</span>update({entry[<span style="color:#e6db74">&#39;year&#39;</span>]: entry[<span style="color:#e6db74">&#39;population&#39;</span>]})
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>selectedEnt <span style="color:#f92672">=</span> defaultdict(dict) <span style="color:#75715e"># saves the countries in the query with its data that has all the values in the YEARS list</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> country <span style="color:#f92672">in</span> allEntries:
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> all(elem <span style="color:#f92672">in</span> getList(allEntries[country]) <span style="color:#66d9ef">for</span> elem <span style="color:#f92672">in</span> YEARS):
+</span></span><span style="display:flex;"><span>        selectedEnt<span style="color:#f92672">.</span>update({country: allEntries[country]})
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>df <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>DataFrame<span style="color:#f92672">.</span>from_dict(selectedEnt) <span style="color:#75715e"># pastes it into pandas</span>
+</span></span><span style="display:flex;"><span>data <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>DataFrame<span style="color:#f92672">.</span>transpose(df) <span style="color:#75715e"># flips the table</span>
+</span></span></code></pre></div><p>The data should now look something like this: <code>print(data)</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>.                <span style="color:#ae81ff">2007</span>     <span style="color:#ae81ff">2008</span>     <span style="color:#ae81ff">2009</span>  <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>Afghanistan    <span style="color:#ae81ff">26349243</span> <span style="color:#ae81ff">27032197</span> <span style="color:#ae81ff">27708187</span>
+</span></span><span style="display:flex;"><span>Algeria        <span style="color:#ae81ff">35097043</span> <span style="color:#ae81ff">35591377</span> <span style="color:#ae81ff">36383302</span>
+</span></span><span style="display:flex;"><span>... ... ... ...
+</span></span></code></pre></div><p>Next it&rsquo;s time to only select the data we want to use as test data, and remove
+the solution; in other words split the data. In this example I have choose to
+use population values from 2007-2012 (for the countries that have data for all
+the years between), where <code>sklearn</code> will do a prediction for 2013 (we also need
+the real value for this year).</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>data <span style="color:#f92672">=</span> data[YEARS]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>predict <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;2013&#34;</span>
+</span></span></code></pre></div><p>Now that we&rsquo;ve trimmed our data set down we need to separate it into 4 arrays.
+However, before we can do that we need to define what attribute we are trying to
+predict. This attribute is known as a <strong>label</strong>. The other attributes that will
+determine our label are known as <strong>features</strong>. Once we&rsquo;ve done this we will use
+<code>numpy</code> to create two arrays. One that contains all of our features and another
+one that contains our labels.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>X <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>array(data<span style="color:#f92672">.</span>drop([predict], <span style="color:#ae81ff">1</span>)) <span style="color:#75715e"># Features</span>
+</span></span><span style="display:flex;"><span>y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>array(data[predict]) <span style="color:#75715e"># Labels</span>
+</span></span></code></pre></div><p>After this we need to split our data into testing and training set. We will use
+90% of our data to train and the other 10% to test. The reason we do this is, so
+that we do not test our model on data that it has already seen.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>x_train, x_test, y_train, y_test <span style="color:#f92672">=</span> sklearn<span style="color:#f92672">.</span>model_selection<span style="color:#f92672">.</span>train_test_split(X, y, test_size <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.1</span>)
+</span></span></code></pre></div><p>Next is to implement the linear regression algorithm.</p>
+<h3 id="implementing-the-algorithm">Implementing the Algorithm</h3>
+<p>We will start by defining the model which we will be using.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>linear <span style="color:#f92672">=</span> linear_model<span style="color:#f92672">.</span>LinearRegression()
+</span></span></code></pre></div><p>Next we will train and score our model using the arrays.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>linear<span style="color:#f92672">.</span>fit(x_train, y_train)
+</span></span><span style="display:flex;"><span>acc <span style="color:#f92672">=</span> linear<span style="color:#f92672">.</span>score(x_test, y_test) <span style="color:#75715e"># acc = accuracy</span>
+</span></span></code></pre></div><p>To see how well our algorithm performed on our test data we can print out the
+accuracy.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(acc)
+</span></span></code></pre></div><p>For this specific data set a score of above <code>80%</code> is fairly good. This example
+has <code>99%</code>.</p>
+<h3 id="viewing-the-constants">Viewing The Constants</h3>
+<p>If we want to see the constants used to generate the line we can type the
+following.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39;Coefficient: </span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, linear<span style="color:#f92672">.</span>coef_) <span style="color:#75715e"># These are each slope value</span>
+</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39;Intercept: </span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, linear<span style="color:#f92672">.</span>intercept_) <span style="color:#75715e"># This is the intercept</span>
+</span></span></code></pre></div><h3 id="predicting-the-population-in-2013">Predicting the population in 2013</h3>
+<p>Seeing a numeric score value is nice but we would first like to see how well the
+algorithm works on a specific country. To do this we are going to print out all
+of our test data. Beside this data we will print the actual population in 2013
+and our models predicted population value.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>predictions <span style="color:#f92672">=</span> linear<span style="color:#f92672">.</span>predict(x_test) <span style="color:#75715e"># Gets a list of all predictions</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#34;Country - sklearn guessed value for 2013, the Wikidata values (2007-2012), The Wikidata value (2013)&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> x <span style="color:#f92672">in</span> range(len(predictions)):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> country <span style="color:#f92672">in</span> selectedEnt:
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> x_test[x][<span style="color:#ae81ff">0</span>] <span style="color:#f92672">==</span> selectedEnt[country][YEARS[<span style="color:#ae81ff">0</span>]] <span style="color:#f92672">and</span> x_test[x][<span style="color:#ae81ff">1</span>] <span style="color:#f92672">==</span> selectedEnt[country][YEARS[<span style="color:#ae81ff">1</span>]]: <span style="color:#75715e"># To find the country used in the test data</span>
+</span></span><span style="display:flex;"><span>            print(country, <span style="color:#e6db74">&#34; - &#34;</span>, predictions[x], x_test[x], y_test[x])
+</span></span></code></pre></div><h3 id="test-result">Test result</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>0.999650607098148
+</span></span><span style="display:flex;"><span>Coefficient:
+</span></span><span style="display:flex;"><span><span style="color:#f92672">[</span> 0.41969474 -1.01050159 -0.20560013  0.0411049   1.3388236   0.41479332<span style="color:#f92672">]</span>
+</span></span><span style="display:flex;"><span>Intercept:
+</span></span><span style="display:flex;"><span>36691.20709852874
+</span></span></code></pre></div><table>
+  <thead>
+      <tr>
+          <th style="text-align: center">Country</th>
+          <th style="text-align: center">sklearn guessed value for 2013</th>
+          <th style="text-align: center">The Wikidata values (2007)</th>
+          <th style="text-align: center">The Wikidata values (2008)</th>
+          <th style="text-align: center">The Wikidata values (2009)</th>
+          <th style="text-align: center">The Wikidata values (2010)</th>
+          <th style="text-align: center">The Wikidata values (2011)</th>
+          <th style="text-align: center">The Wikidata values (2012)</th>
+          <th style="text-align: center">The Wikidata value (2013)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">Bhutan</td>
+          <td style="text-align: center">791284.69</td>
+          <td style="text-align: center">679365</td>
+          <td style="text-align: center">692159</td>
+          <td style="text-align: center">704542</td>
+          <td style="text-align: center">716939</td>
+          <td style="text-align: center">729429</td>
+          <td style="text-align: center">741822</td>
+          <td style="text-align: center">753947</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">Palau</td>
+          <td style="text-align: center">57549.30</td>
+          <td style="text-align: center">20118</td>
+          <td style="text-align: center">20228</td>
+          <td style="text-align: center">20344</td>
+          <td style="text-align: center">20470</td>
+          <td style="text-align: center">20606</td>
+          <td style="text-align: center">20754</td>
+          <td style="text-align: center">20918</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">Venezuela</td>
+          <td style="text-align: center">30466443.18</td>
+          <td style="text-align: center">27655937</td>
+          <td style="text-align: center">28120312</td>
+          <td style="text-align: center">28583040</td>
+          <td style="text-align: center">29043283</td>
+          <td style="text-align: center">29500625</td>
+          <td style="text-align: center">29954782</td>
+          <td style="text-align: center">30405207</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">Romania</td>
+          <td style="text-align: center">19986225.90</td>
+          <td style="text-align: center">20882982</td>
+          <td style="text-align: center">20537875</td>
+          <td style="text-align: center">20367487</td>
+          <td style="text-align: center">20246871</td>
+          <td style="text-align: center">20147528</td>
+          <td style="text-align: center">20058035</td>
+          <td style="text-align: center">19981358</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">Uruguay</td>
+          <td style="text-align: center">3439645.73</td>
+          <td style="text-align: center">3338384</td>
+          <td style="text-align: center">3348898</td>
+          <td style="text-align: center">3360431</td>
+          <td style="text-align: center">3371982</td>
+          <td style="text-align: center">3383486</td>
+          <td style="text-align: center">3395253</td>
+          <td style="text-align: center">3407062</td>
+      </tr>
+      <tr>
+          <td style="text-align: center">..</td>
+          <td style="text-align: center">..</td>
+          <td style="text-align: center">..</td>
+          <td style="text-align: center">..</td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center"></td>
+          <td style="text-align: center"></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="full-code">Full code</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># -*- coding: utf-8  -*-</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> json
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> numpy <span style="color:#66d9ef">as</span> np
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> pandas <span style="color:#66d9ef">as</span> pd
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> sklearn
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> collections <span style="color:#f92672">import</span> defaultdict
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> sklearn <span style="color:#f92672">import</span> linear_model
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>YEARS <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;2007&#34;</span>, <span style="color:#e6db74">&#34;2008&#34;</span>, <span style="color:#e6db74">&#34;2009&#34;</span>, <span style="color:#e6db74">&#34;2010&#34;</span>, <span style="color:#e6db74">&#34;2011&#34;</span>, <span style="color:#e6db74">&#34;2012&#34;</span>, <span style="color:#e6db74">&#34;2013&#34;</span>]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">getList</span>(dict):
+</span></span><span style="display:flex;"><span>    list <span style="color:#f92672">=</span> []
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> key <span style="color:#f92672">in</span> dict<span style="color:#f92672">.</span>keys():
+</span></span><span style="display:flex;"><span>        list<span style="color:#f92672">.</span>append(key)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> list
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">with</span> open(<span style="color:#e6db74">&#39;query.json&#39;</span>, <span style="color:#e6db74">&#39;r&#39;</span>) <span style="color:#66d9ef">as</span> f:
+</span></span><span style="display:flex;"><span>    distros_dict <span style="color:#f92672">=</span> json<span style="color:#f92672">.</span>load(f)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>allEntries <span style="color:#f92672">=</span> defaultdict(dict)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> entry <span style="color:#f92672">in</span> distros_dict:
+</span></span><span style="display:flex;"><span>    allEntries[entry[<span style="color:#e6db74">&#39;countryLabel&#39;</span>]]<span style="color:#f92672">.</span>update({entry[<span style="color:#e6db74">&#39;year&#39;</span>]: entry[<span style="color:#e6db74">&#39;population&#39;</span>]})
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>selectedEnt <span style="color:#f92672">=</span> defaultdict(dict)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> country <span style="color:#f92672">in</span> allEntries:
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> all(elem <span style="color:#f92672">in</span> getList(allEntries[country]) <span style="color:#66d9ef">for</span> elem <span style="color:#f92672">in</span> YEARS):
+</span></span><span style="display:flex;"><span>        selectedEnt<span style="color:#f92672">.</span>update({country: allEntries[country]})
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>df <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>DataFrame<span style="color:#f92672">.</span>from_dict(selectedEnt)
+</span></span><span style="display:flex;"><span>data <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>DataFrame<span style="color:#f92672">.</span>transpose(df)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>data <span style="color:#f92672">=</span> data[YEARS]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>predict <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;2013&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>X <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>array(data<span style="color:#f92672">.</span>drop([predict], <span style="color:#ae81ff">1</span>)) <span style="color:#75715e"># Features</span>
+</span></span><span style="display:flex;"><span>y <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>array(data[predict]) <span style="color:#75715e"># Labels</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>x_train, x_test, y_train, y_test <span style="color:#f92672">=</span> sklearn<span style="color:#f92672">.</span>model_selection<span style="color:#f92672">.</span>train_test_split(X, y, test_size <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.1</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>linear <span style="color:#f92672">=</span> linear_model<span style="color:#f92672">.</span>LinearRegression()
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>linear<span style="color:#f92672">.</span>fit(x_train, y_train)
+</span></span><span style="display:flex;"><span>acc <span style="color:#f92672">=</span> linear<span style="color:#f92672">.</span>score(x_test, y_test)
+</span></span><span style="display:flex;"><span>print(acc)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39;Coefficient: </span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, linear<span style="color:#f92672">.</span>coef_)
+</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#39;Intercept: </span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, linear<span style="color:#f92672">.</span>intercept_)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>predictions <span style="color:#f92672">=</span> linear<span style="color:#f92672">.</span>predict(x_test)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>print(<span style="color:#e6db74">&#34;Country - sklearn guessed value for 2013, the Wikidata values (2007-2012), The Wikidata value (2013)&#34;</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> x <span style="color:#f92672">in</span> range(len(predictions)):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> country <span style="color:#f92672">in</span> selectedEnt:
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> x_test[x][<span style="color:#ae81ff">0</span>] <span style="color:#f92672">==</span> selectedEnt[country][YEARS[<span style="color:#ae81ff">0</span>]] <span style="color:#f92672">and</span> x_test[x][<span style="color:#ae81ff">1</span>] <span style="color:#f92672">==</span> selectedEnt[country][YEARS[<span style="color:#ae81ff">1</span>]]:
+</span></span><span style="display:flex;"><span>            print(country, <span style="color:#e6db74">&#34; - &#34;</span>, predictions[x], x_test[x], y_test[x])
+</span></span></code></pre></div><p>Jupyter page (<a href="https://wikitech.wikimedia.org/wiki/PAWS">PAWS</a>)</p>
+<ul>
+<li><a href="https://paws-public.wmflabs.org/paws-public/User:Premeditated/Other/macine%20lern/Wikidata%20-%20Linear%20regression.ipynb">Wikidata - Linear regression</a></li>
+</ul>
+]]></content></item><item><title>My First Post</title><link>https://blog.vfiles.no/posts/my-first-post/</link><pubDate>Thu, 07 Oct 2021 22:22:22 +0200</pubDate><guid>https://blog.vfiles.no/posts/my-first-post/</guid><description>&lt;p&gt;Hello! Bonjour! Hola! Hei!&lt;/p&gt;
+&lt;p&gt;This is my first time using this platform to write a blog post. I have not
+decided on what I&amp;rsquo;m supposed to write about. The platform is still a work in
+progress and was created since I&amp;rsquo;ve always wanted to start a technological blog.
+The topics will most likely be relevant to what I&amp;rsquo;m interested in or what I&amp;rsquo;m
+working on.&lt;/p&gt;
+&lt;p&gt;So, thank you for taking the time to read this first blog post; hopefully, there
+will be more to come in the future. Good-bye!&lt;/p&gt;</description><content type="html"><![CDATA[<p>Hello! Bonjour! Hola! Hei!</p>
+<p>This is my first time using this platform to write a blog post. I have not
+decided on what I&rsquo;m supposed to write about. The platform is still a work in
+progress and was created since I&rsquo;ve always wanted to start a technological blog.
+The topics will most likely be relevant to what I&rsquo;m interested in or what I&rsquo;m
+working on.</p>
+<p>So, thank you for taking the time to read this first blog post; hopefully, there
+will be more to come in the future. Good-bye!</p>
+]]></content></item></channel></rss>

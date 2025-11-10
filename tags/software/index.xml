@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software on A blog</title><link>https://blog.vfiles.no/tags/software/</link><description>Recent content in Software on A blog</description><generator>Hugo</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank" rel="noopener"&gt;CC BY-SA 4.0&lt;/a&gt;, except where indicated otherwise</copyright><lastBuildDate>Tue, 08 Jul 2025 11:00:10 +0100</lastBuildDate><atom:link href="https://blog.vfiles.no/tags/software/index.xml" rel="self" type="application/rss+xml"/><item><title>My 2025 Setup</title><link>https://blog.vfiles.no/posts/my-2025-setup/</link><pubDate>Tue, 08 Jul 2025 11:00:10 +0100</pubDate><guid>https://blog.vfiles.no/posts/my-2025-setup/</guid><description>&lt;p&gt;This is my 2025 setup.&lt;/p&gt;
+&lt;h1 id="software--productivity"&gt;Software &amp;amp; Productivity&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://brew.sh/"&gt;brew&lt;/a&gt; as package manager&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://asdf-vm.com/"&gt;asdf&lt;/a&gt; as language &amp;amp; tools management&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://code.visualstudio.com/"&gt;VS Code&lt;/a&gt; as code editor with Copilot integration&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bear.app/"&gt;Bear&lt;/a&gt; as notes keeping&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arc.net/"&gt;Arc&lt;/a&gt; as browser&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kagi.com/"&gt;Kagi&lt;/a&gt; as search engine&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/"&gt;ChatGPT&lt;/a&gt; as AI assistant&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.usebruno.com/"&gt;Bruno&lt;/a&gt; as API client&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://orbstack.dev/"&gt;OrbStack&lt;/a&gt; as Docker desktop replacement, plus virtual machines&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.spotify.com/"&gt;Spotify&lt;/a&gt; as music streaming&lt;/li&gt;
+&lt;li&gt;Apple ecosystem for mail, calendar, reminders, messaging, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="degoogling"&gt;Degoogling&lt;/h1&gt;
+&lt;p&gt;As can be seen, I am using Kagi, which delivers excellent results without any garbage or ads, instead of Google. I also use email with my own domain through Apple’s iCloud email system, which allows for custom domains, as well as calendar and other features, all outside Google’s domain. Unfortunately, I have to maintain my Google account to use YouTube and occasionally for sites that do not allow creating accounts with a username and password, but only through Single Sign-On (SSO).&lt;/p&gt;</description></item></channel></rss>
