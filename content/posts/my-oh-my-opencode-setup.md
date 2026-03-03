@@ -2,7 +2,7 @@
 title: "My 'Oh My Opencode' Setup"
 date: 2026-03-03T22:13:50+01:00
 author: Andreas Lien
-draft: true
+draft: false
 toc: false
 cover: /media/opencode/opencode-banner.png
 tags:
