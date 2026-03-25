@@ -44,6 +44,72 @@ brew --version
 
 If `opencode` is distributed differently by the time you read this (it changes fast), follow their official install instructions and come back here for the configuration.
 
+## Bash / zsh config
+
+On macOS the default shell is `zsh`, but a lot of people still run `bash` (or have both).
+You can check what you’re currently using with:
+
+```bash
+echo "$SHELL"
+```
+
+The goal of this section is boring but important:
+
+- make sure `opencode` is on your `PATH`
+- add a couple of convenience helpers
+- (in my case) make sure relative secret paths like `./secrets/github-mcp-pat` resolve reliably
+
+### zsh (`~/.zshrc`)
+
+```zsh
+# Homebrew (Apple Silicon). If you're on Intel, brew is usually /usr/local.
+if [ -x /opt/homebrew/bin/brew ]; then
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+fi
+
+# Quick sanity check: should print a path.
+# command -v opencode
+
+# Convenience alias
+alias oc='opencode'
+
+# Always run from the repo root so relative paths in config work
+# (like: {file:./secrets/github-mcp-pat}).
+ocd() {
+  local root
+  root="$(git rev-parse --show-toplevel 2>/dev/null)" || root="$PWD"
+  cd "$root" || return
+  opencode "$@"
+}
+
+# Optional: make tools that spawn editors behave predictably.
+export EDITOR="code -w"
+```
+
+Reload with `source ~/.zshrc` or open a new terminal.
+
+### bash (`~/.bashrc`)
+
+```bash
+# Homebrew (Apple Silicon). If you're on Intel, brew is usually /usr/local.
+if [ -x /opt/homebrew/bin/brew ]; then
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+fi
+
+alias oc='opencode'
+
+ocd() {
+  local root
+  root="$(git rev-parse --show-toplevel 2>/dev/null)" || root="$PWD"
+  cd "$root" || return
+  opencode "$@"
+}
+
+export EDITOR="code -w"
+```
+
+If you’re on macOS bash and nothing from `~/.bashrc` seems to load, check whether your terminal starts a *login shell*. In that case you may need to source `~/.bashrc` from `~/.bash_profile`.
+
 ## Terminal
 
 👻 Ghostty
@@ -384,6 +450,33 @@ If something fails, it’s almost always:
 - PAT file path wrong
 - `secrets/` accidentally committed/ignored incorrectly
 
+## bash or zsh config
+
+You have to activate this short cut to running OpenCode with tmux subagents. Just write `oc` in the terminal to start coding in the given folder.
+```bash
+# Oh My Opencode - Running OpenCode with Tmux Subagent Support
+oc() {
+    local base="$(basename "$PWD" | tr '.' '_')-$(echo "$PWD" | md5sum | cut -c1-4)"
+    local session="$base"
+    local i=1
+    while tmux has-session -t "$session" 2>/dev/null; do
+        session="${base}-${i}"
+        i=$((i + 1))
+    done
+
+    # Find first available port
+    local port=4096
+    while lsof -i :$port >/dev/null 2>&1; do port=$((port + 1)); done
+
+    if [ -n "$TMUX" ]; then
+        OPENCODE_PORT=$port opencode --port $port "$@"
+    else
+        tmux new-session -s "$session" -c "$PWD" \
+            "OPENCODE_PORT=$port opencode --port $port $*; exec $SHELL"
+    fi
+}
+```
+
 ## Day-to-day Workflow
 
 My baseline loop is:
@@ -396,6 +489,9 @@ My baseline loop is:
 This is also why I keep `share` disabled. I treat my terminal agent like a coworker sitting at my keyboard.
 
 ## Vibe Code
+
+{{< image src="/media/opencode/tmux.png" alt="The Ghostty terminal with OpenCode" class="center" attrlink="https://creativecommons.org/publicdomain/zero/1.0/legalcode.en"
+caption="👻 Ghostty with OpenCode in tmux config" attr="License: CC0." >}}
 
 This section is intentionally unfinished. I’m still figuring out what I want “vibe coding” to mean when the tooling is *actually capable* of touching the repo.
 
