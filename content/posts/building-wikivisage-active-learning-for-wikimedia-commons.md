@@ -3,6 +3,9 @@ title: "Building WikiVisage: Active Learning for Wikimedia Commons"
 date: 2026-05-08T22:50:31+02:00
 draft: false
 toc: false
+cover: /media/wikivisage/MockupViews_2x_PNG_20260509_512.png
+CoverCaption: "License of images used in the illustration. Image of Kanye West by [
+David Shankbone, CC0](https://commons.wikimedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(cropped).jpg) and [Gus Freedman, CC-BY-SA-2.5](https://commons.wikimedia.org/wiki/File:WM2006_0326.jpg) for image of Jimmy Wales."
 author: Andreas Lien
 tags: ["wikimedia", "machine-learning", "python", "toolforge", "open-source"]
 description: "How I built an active learning tool that helps tag people in Wikimedia Commons images using face recognition, and what I learned running ML on Toolforge."
