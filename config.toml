@@ -1,16 +1,10 @@
 baseurl         = "https://blog.vfiles.no"
 title           = "My Blog"
-languageCode    = "en-us"
+locale          = "en-us"
 theme           = "hello-friend-ng"
 pagination = { pagerSize = 10 }
 enableRobotsTXT = true
 enableEmoji     = true
-
-[module]
-  [[module.imports]]
-    path = "github.com/divinerites/plausible-hugo"
-
-
 
 [params]
   mainSections    = ["posts"]
@@ -43,12 +37,6 @@ enableEmoji     = true
   description = "My blog"
   keywords = "blog"
   images = [""]
-
-[params.plausible]
-  enable = true
-  domain = "blog.vfiles.no"
-  selfhosted_domain = "plausible.vfiles.no"
-  gitstar = false
 
 [params.footer]
   trademark = true
